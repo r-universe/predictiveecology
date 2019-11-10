@@ -243,6 +243,12 @@
     "from": "quickPlot"
   },
   {
+    "package": "googleID",
+    "url": "https://github.com/MarkEdmondson1234/googleID",
+    "via": ["SpaDES.shiny"],
+    "from": "SpaDES.shiny"
+  },
+  {
     "package": "map",
     "url": "https://github.com/PredictiveEcology/map",
     "via": ["CBMutils", "LandR"],
