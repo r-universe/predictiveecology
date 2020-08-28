@@ -196,6 +196,13 @@
     "from": "map"
   },
   {
+    "package": "amc",
+    "url": "https://github.com/achubaty/amc",
+    "via": ["pemisc"],
+    "branch": "development",
+    "from": "pemisc"
+  },
+  {
     "package": "lintr",
     "url": "https://github.com/jimhester/lintr",
     "via": ["fireSenseUtils", "usefulFuns"],
@@ -438,6 +445,13 @@
     "via": ["map", "pemisc"],
     "branch": "development",
     "from": "map"
+  },
+  {
+    "package": "peutils",
+    "url": "https://github.com/PredictiveEcology/peutils",
+    "via": ["pemisc"],
+    "branch": "development",
+    "from": "pemisc"
   },
   {
     "package": "quickPlot",
