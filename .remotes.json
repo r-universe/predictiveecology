@@ -9,6 +9,13 @@
   {
     "package": "LandR",
     "url": "https://github.com/PredictiveEcology/LandR",
+    "via": ["LandWebUtils"],
+    "branch": "LandWeb",
+    "from": "LandWebUtils"
+  },
+  {
+    "package": "LandR",
+    "url": "https://github.com/PredictiveEcology/LandR",
     "via": ["fireSenseUtils"],
     "branch": "development",
     "from": "fireSenseUtils"
@@ -51,6 +58,20 @@
   {
     "package": "SpaDES.tools",
     "url": "https://github.com/PredictiveEcology/SpaDES.tools",
+    "via": ["LandWebUtils", "LandR", "map"],
+    "branch": "development",
+    "from": "LandWebUtils"
+  },
+  {
+    "package": "SpaDES.tools",
+    "url": "https://github.com/PredictiveEcology/SpaDES.tools",
+    "via": ["LandWebUtils", "map"],
+    "branch": "development",
+    "from": "LandWebUtils"
+  },
+  {
+    "package": "SpaDES.tools",
+    "url": "https://github.com/PredictiveEcology/SpaDES.tools",
     "via": ["fireSenseUtils", "LandR", "map"],
     "branch": "development",
     "from": "fireSenseUtils"
@@ -89,6 +110,34 @@
     "via": ["LandR", "pemisc"],
     "branch": "development",
     "from": "LandR"
+  },
+  {
+    "package": "amc",
+    "url": "https://github.com/achubaty/amc",
+    "via": ["LandWebUtils", "LandR", "map", "pemisc"],
+    "branch": "development",
+    "from": "LandWebUtils"
+  },
+  {
+    "package": "amc",
+    "url": "https://github.com/achubaty/amc",
+    "via": ["LandWebUtils", "LandR", "pemisc"],
+    "branch": "development",
+    "from": "LandWebUtils"
+  },
+  {
+    "package": "amc",
+    "url": "https://github.com/achubaty/amc",
+    "via": ["LandWebUtils", "map", "pemisc"],
+    "branch": "development",
+    "from": "LandWebUtils"
+  },
+  {
+    "package": "amc",
+    "url": "https://github.com/achubaty/amc",
+    "via": ["LandWebUtils", "pemisc"],
+    "branch": "development",
+    "from": "LandWebUtils"
   },
   {
     "package": "amc",
@@ -155,6 +204,20 @@
   {
     "package": "map",
     "url": "https://github.com/PredictiveEcology/map",
+    "via": ["LandWebUtils", "LandR"],
+    "branch": "development",
+    "from": "LandWebUtils"
+  },
+  {
+    "package": "map",
+    "url": "https://github.com/PredictiveEcology/map",
+    "via": ["LandWebUtils"],
+    "branch": "development",
+    "from": "LandWebUtils"
+  },
+  {
+    "package": "map",
+    "url": "https://github.com/PredictiveEcology/map",
     "via": ["fireSenseUtils", "LandR"],
     "branch": "development",
     "from": "fireSenseUtils"
@@ -193,6 +256,34 @@
     "via": ["LandR"],
     "branch": "development",
     "from": "LandR"
+  },
+  {
+    "package": "pemisc",
+    "url": "https://github.com/PredictiveEcology/pemisc",
+    "via": ["LandWebUtils", "LandR", "map"],
+    "branch": "development",
+    "from": "LandWebUtils"
+  },
+  {
+    "package": "pemisc",
+    "url": "https://github.com/PredictiveEcology/pemisc",
+    "via": ["LandWebUtils", "LandR"],
+    "branch": "development",
+    "from": "LandWebUtils"
+  },
+  {
+    "package": "pemisc",
+    "url": "https://github.com/PredictiveEcology/pemisc",
+    "via": ["LandWebUtils", "map"],
+    "branch": "development",
+    "from": "LandWebUtils"
+  },
+  {
+    "package": "pemisc",
+    "url": "https://github.com/PredictiveEcology/pemisc",
+    "via": ["LandWebUtils"],
+    "branch": "development",
+    "from": "LandWebUtils"
   },
   {
     "package": "pemisc",
@@ -256,6 +347,34 @@
     "via": ["LandR", "pemisc"],
     "branch": "development",
     "from": "LandR"
+  },
+  {
+    "package": "peutils",
+    "url": "https://github.com/PredictiveEcology/peutils",
+    "via": ["LandWebUtils", "LandR", "map", "pemisc"],
+    "branch": "development",
+    "from": "LandWebUtils"
+  },
+  {
+    "package": "peutils",
+    "url": "https://github.com/PredictiveEcology/peutils",
+    "via": ["LandWebUtils", "LandR", "pemisc"],
+    "branch": "development",
+    "from": "LandWebUtils"
+  },
+  {
+    "package": "peutils",
+    "url": "https://github.com/PredictiveEcology/peutils",
+    "via": ["LandWebUtils", "map", "pemisc"],
+    "branch": "development",
+    "from": "LandWebUtils"
+  },
+  {
+    "package": "peutils",
+    "url": "https://github.com/PredictiveEcology/peutils",
+    "via": ["LandWebUtils", "pemisc"],
+    "branch": "development",
+    "from": "LandWebUtils"
   },
   {
     "package": "peutils",
