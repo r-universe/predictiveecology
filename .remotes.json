@@ -84,6 +84,13 @@
     "from": "fireSenseUtils"
   },
   {
+    "package": "SpaDES.tools",
+    "url": "https://github.com/PredictiveEcology/SpaDES.tools",
+    "via": ["map"],
+    "branch": "development",
+    "from": "map"
+  },
+  {
     "package": "amc",
     "url": "https://github.com/achubaty/amc",
     "via": ["CBMutils", "LandR", "map", "pemisc"],
@@ -180,6 +187,13 @@
     "via": ["fireSenseUtils", "usefulFuns", "LandR", "pemisc"],
     "branch": "development",
     "from": "fireSenseUtils"
+  },
+  {
+    "package": "amc",
+    "url": "https://github.com/achubaty/amc",
+    "via": ["map", "pemisc"],
+    "branch": "development",
+    "from": "map"
   },
   {
     "package": "lintr",
@@ -321,6 +335,13 @@
     "from": "fireSenseUtils"
   },
   {
+    "package": "pemisc",
+    "url": "https://github.com/PredictiveEcology/pemisc",
+    "via": ["map"],
+    "branch": "development",
+    "from": "map"
+  },
+  {
     "package": "peutils",
     "url": "https://github.com/PredictiveEcology/peutils",
     "via": ["CBMutils", "LandR", "map", "pemisc"],
@@ -410,6 +431,13 @@
     "via": ["fireSenseUtils", "usefulFuns", "LandR", "pemisc"],
     "branch": "development",
     "from": "fireSenseUtils"
+  },
+  {
+    "package": "peutils",
+    "url": "https://github.com/PredictiveEcology/peutils",
+    "via": ["map", "pemisc"],
+    "branch": "development",
+    "from": "map"
   },
   {
     "package": "quickPlot",
