@@ -78,3 +78,13 @@
 	url = https://github.com/PredictiveEcology/usefulFuns
 	shallow = true
 	registered = true
+[submodule "lintr"]
+	path = lintr
+	url = https://github.com/jimhester/lintr
+	shallow = true
+	registered = false
+[submodule "stringfish"]
+	path = stringfish
+	url = https://github.com/traversc/stringfish
+	shallow = true
+	registered = false
