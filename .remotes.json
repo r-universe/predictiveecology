@@ -1,0 +1,72 @@
+[
+  {
+    "package": "LandR",
+    "url": "https://github.com/PredictiveEcology/LandR",
+    "via": ["CBMutils"],
+    "branch": "development",
+    "from": "CBMutils"
+  },
+  {
+    "package": "SpaDES.core",
+    "url": "https://github.com/PredictiveEcology/SpaDES.core",
+    "via": ["CBMutils"],
+    "branch": "development",
+    "from": "CBMutils"
+  },
+  {
+    "package": "SpaDES.tools",
+    "url": "https://github.com/PredictiveEcology/SpaDES.tools",
+    "via": ["CBMutils", "LandR", "map"],
+    "branch": "development",
+    "from": "CBMutils"
+  },
+  {
+    "package": "amc",
+    "url": "https://github.com/achubaty/amc",
+    "via": ["CBMutils", "LandR", "map", "pemisc"],
+    "branch": "development",
+    "from": "CBMutils"
+  },
+  {
+    "package": "amc",
+    "url": "https://github.com/achubaty/amc",
+    "via": ["CBMutils", "LandR", "pemisc"],
+    "branch": "development",
+    "from": "CBMutils"
+  },
+  {
+    "package": "map",
+    "url": "https://github.com/PredictiveEcology/map",
+    "via": ["CBMutils", "LandR"],
+    "branch": "development",
+    "from": "CBMutils"
+  },
+  {
+    "package": "pemisc",
+    "url": "https://github.com/PredictiveEcology/pemisc",
+    "via": ["CBMutils", "LandR", "map"],
+    "branch": "development",
+    "from": "CBMutils"
+  },
+  {
+    "package": "pemisc",
+    "url": "https://github.com/PredictiveEcology/pemisc",
+    "via": ["CBMutils", "LandR"],
+    "branch": "development",
+    "from": "CBMutils"
+  },
+  {
+    "package": "peutils",
+    "url": "https://github.com/PredictiveEcology/peutils",
+    "via": ["CBMutils", "LandR", "map", "pemisc"],
+    "branch": "development",
+    "from": "CBMutils"
+  },
+  {
+    "package": "peutils",
+    "url": "https://github.com/PredictiveEcology/peutils",
+    "via": ["CBMutils", "LandR", "pemisc"],
+    "branch": "development",
+    "from": "CBMutils"
+  }
+]
