@@ -1,0 +1,52 @@
+[
+  {
+    "package": "amc"
+  },
+  {
+    "package": "CBMutils"
+  },
+  {
+    "package": "fireSenseUtils"
+  },
+  {
+    "package": "LandR"
+  },
+  {
+    "package": "LandWebUtils"
+  },
+  {
+    "package": "map"
+  },
+  {
+    "package": "pemisc"
+  },
+  {
+    "package": "peutils"
+  },
+  {
+    "package": "quickPlot",
+    "oncran": true
+  },
+  {
+    "package": "Require",
+    "oncran": true
+  },
+  {
+    "package": "reproducible",
+    "oncran": true
+  },
+  {
+    "package": "SpaDES.core",
+    "oncran": true
+  },
+  {
+    "package": "SpaDES.install"
+  },
+  {
+    "package": "SpaDES.tools",
+    "oncran": true
+  },
+  {
+    "package": "usefulFuns"
+  }
+]

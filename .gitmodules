@@ -1,5 +1,95 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/predictiveecology/universe
 	shallow = true
 	branch = HEAD
+[submodule "amc"]
+	path = amc
+	url = https://github.com/achubaty/amc
+	shallow = true
+	branch = development
+	registered = true
+[submodule "CBMutils"]
+	path = CBMutils
+	url = https://github.com/PredictiveEcology/CBMutils
+	shallow = true
+	branch = development
+	registered = true
+[submodule "fireSenseUtils"]
+	path = fireSenseUtils
+	url = https://github.com/PredictiveEcology/fireSenseUtils
+	shallow = true
+	branch = development
+	registered = true
+[submodule "LandR"]
+	path = LandR
+	url = https://github.com/PredictiveEcology/LandR
+	shallow = true
+	branch = development
+	registered = true
+[submodule "LandWebUtils"]
+	path = LandWebUtils
+	url = https://github.com/PredictiveEcology/LandWebUtils
+	shallow = true
+	branch = development
+	registered = true
+[submodule "map"]
+	path = map
+	url = https://github.com/PredictiveEcology/map
+	shallow = true
+	branch = development
+	registered = true
+[submodule "pemisc"]
+	path = pemisc
+	url = https://github.com/PredictiveEcology/pemisc
+	shallow = true
+	branch = development
+	registered = true
+[submodule "peutils"]
+	path = peutils
+	url = https://github.com/PredictiveEcology/peutils
+	shallow = true
+	branch = development
+	registered = true
+[submodule "quickPlot"]
+	path = quickPlot
+	url = https://github.com/PredictiveEcology/quickPlot
+	shallow = true
+	branch = development
+	registered = true
+[submodule "Require"]
+	path = Require
+	url = https://github.com/PredictiveEcology/Require
+	shallow = true
+	branch = development
+	registered = true
+[submodule "reproducible"]
+	path = reproducible
+	url = https://github.com/PredictiveEcology/reproducible
+	shallow = true
+	branch = development
+	registered = true
+[submodule "SpaDES.core"]
+	path = SpaDES.core
+	url = https://github.com/PredictiveEcology/SpaDES.core
+	shallow = true
+	branch = development
+	registered = true
+[submodule "SpaDES.install"]
+	path = SpaDES.install
+	url = https://github.com/PredictiveEcology/SpaDES.install
+	shallow = true
+	branch = development
+	registered = true
+[submodule "SpaDES.tools"]
+	path = SpaDES.tools
+	url = https://github.com/PredictiveEcology/SpaDES.tools
+	shallow = true
+	branch = development
+	registered = true
+[submodule "usefulFuns"]
+	path = usefulFuns
+	url = https://github.com/PredictiveEcology/usefulFuns
+	shallow = true
+	branch = development
+	registered = true
