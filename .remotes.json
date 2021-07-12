@@ -35,6 +35,13 @@
     "from": "CBMutils"
   },
   {
+    "package": "SpaDES.core",
+    "url": "https://github.com/PredictiveEcology/SpaDES.core",
+    "via": ["NetLogoR"],
+    "branch": "development",
+    "from": "NetLogoR"
+  },
+  {
     "package": "SpaDES.tools",
     "url": "https://github.com/PredictiveEcology/SpaDES.tools",
     "via": ["CBMutils", "LandR", "map"],
@@ -61,6 +68,13 @@
     "via": ["LandWebUtils", "map"],
     "branch": "development",
     "from": "LandWebUtils"
+  },
+  {
+    "package": "SpaDES.tools",
+    "url": "https://github.com/PredictiveEcology/SpaDES.tools",
+    "via": ["NetLogoR"],
+    "branch": "development",
+    "from": "NetLogoR"
   },
   {
     "package": "SpaDES.tools",
@@ -201,6 +215,12 @@
     "via": ["usefulFuns", "LandR", "pemisc"],
     "branch": "development",
     "from": "usefulFuns"
+  },
+  {
+    "package": "fastshp",
+    "url": "https://github.com/s-u/fastshp",
+    "via": ["NetLogoR"],
+    "from": "NetLogoR"
   },
   {
     "package": "lintr",
