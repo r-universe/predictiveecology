@@ -40,11 +40,24 @@
     "oncran": true
   },
   {
+    "package": "SpaDES.addins",
+    "oncran": true
+  },
+  {
     "package": "SpaDES.core",
     "oncran": true
   },
   {
+    "package": "SpaDES.experiment"
+  },
+  {
     "package": "SpaDES.install"
+  },
+  {
+    "package": "SpaDES.project"
+  },
+  {
+    "package": "SpaDES.shiny"
   },
   {
     "package": "SpaDES.tools",
@@ -52,5 +65,8 @@
   },
   {
     "package": "usefulFuns"
+  },
+  {
+    "package": "fastshp"
   }
 ]
