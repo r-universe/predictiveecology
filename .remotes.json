@@ -243,12 +243,6 @@
     "from": "quickPlot"
   },
   {
-    "package": "lintr",
-    "url": "https://github.com/jimhester/lintr",
-    "via": ["usefulFuns"],
-    "from": "usefulFuns"
-  },
-  {
     "package": "map",
     "url": "https://github.com/PredictiveEcology/map",
     "via": ["CBMutils", "LandR"],
