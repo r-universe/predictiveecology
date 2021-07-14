@@ -133,8 +133,3 @@
 	url = https://github.com/jimhester/lintr
 	shallow = true
 	registered = false
-[submodule "stringfish"]
-	path = stringfish
-	url = https://github.com/traversc/stringfish
-	shallow = true
-	registered = false

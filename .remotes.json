@@ -23,23 +23,9 @@
   {
     "package": "LandR",
     "url": "https://github.com/PredictiveEcology/LandR",
-    "via": ["fireSenseUtils", "usefulFuns"],
-    "branch": "development",
-    "from": "fireSenseUtils"
-  },
-  {
-    "package": "LandR",
-    "url": "https://github.com/PredictiveEcology/LandR",
     "via": ["usefulFuns"],
     "branch": "development",
     "from": "usefulFuns"
-  },
-  {
-    "package": "Require",
-    "url": "https://github.com/PredictiveEcology/Require",
-    "via": ["fireSenseUtils"],
-    "branch": "development",
-    "from": "fireSenseUtils"
   },
   {
     "package": "SpaDES.core",
@@ -86,7 +72,7 @@
   {
     "package": "SpaDES.tools",
     "url": "https://github.com/PredictiveEcology/SpaDES.tools",
-    "via": ["fireSenseUtils", "usefulFuns", "LandR", "map"],
+    "via": ["fireSenseUtils"],
     "branch": "development",
     "from": "fireSenseUtils"
   },
@@ -163,13 +149,6 @@
   {
     "package": "amc",
     "url": "https://github.com/achubaty/amc",
-    "via": ["fireSenseUtils", "pemisc"],
-    "branch": "development",
-    "from": "fireSenseUtils"
-  },
-  {
-    "package": "amc",
-    "url": "https://github.com/achubaty/amc",
     "via": ["fireSenseUtils", "LandR", "map", "pemisc"],
     "branch": "development",
     "from": "fireSenseUtils"
@@ -184,21 +163,7 @@
   {
     "package": "amc",
     "url": "https://github.com/achubaty/amc",
-    "via": ["fireSenseUtils", "usefulFuns"],
-    "branch": "development",
-    "from": "fireSenseUtils"
-  },
-  {
-    "package": "amc",
-    "url": "https://github.com/achubaty/amc",
-    "via": ["fireSenseUtils", "usefulFuns", "LandR", "map", "pemisc"],
-    "branch": "development",
-    "from": "fireSenseUtils"
-  },
-  {
-    "package": "amc",
-    "url": "https://github.com/achubaty/amc",
-    "via": ["fireSenseUtils", "usefulFuns", "LandR", "pemisc"],
+    "via": ["fireSenseUtils", "pemisc"],
     "branch": "development",
     "from": "fireSenseUtils"
   },
@@ -240,12 +205,6 @@
   {
     "package": "lintr",
     "url": "https://github.com/jimhester/lintr",
-    "via": ["fireSenseUtils", "usefulFuns"],
-    "from": "fireSenseUtils"
-  },
-  {
-    "package": "lintr",
-    "url": "https://github.com/jimhester/lintr",
     "via": ["usefulFuns"],
     "from": "usefulFuns"
   },
@@ -281,13 +240,6 @@
     "package": "map",
     "url": "https://github.com/PredictiveEcology/map",
     "via": ["fireSenseUtils", "LandR"],
-    "branch": "development",
-    "from": "fireSenseUtils"
-  },
-  {
-    "package": "map",
-    "url": "https://github.com/PredictiveEcology/map",
-    "via": ["fireSenseUtils", "usefulFuns", "LandR"],
     "branch": "development",
     "from": "fireSenseUtils"
   },
@@ -357,13 +309,6 @@
   {
     "package": "pemisc",
     "url": "https://github.com/PredictiveEcology/pemisc",
-    "via": ["fireSenseUtils"],
-    "branch": "development",
-    "from": "fireSenseUtils"
-  },
-  {
-    "package": "pemisc",
-    "url": "https://github.com/PredictiveEcology/pemisc",
     "via": ["fireSenseUtils", "LandR", "map"],
     "branch": "development",
     "from": "fireSenseUtils"
@@ -378,14 +323,7 @@
   {
     "package": "pemisc",
     "url": "https://github.com/PredictiveEcology/pemisc",
-    "via": ["fireSenseUtils", "usefulFuns", "LandR", "map"],
-    "branch": "development",
-    "from": "fireSenseUtils"
-  },
-  {
-    "package": "pemisc",
-    "url": "https://github.com/PredictiveEcology/pemisc",
-    "via": ["fireSenseUtils", "usefulFuns", "LandR"],
+    "via": ["fireSenseUtils"],
     "branch": "development",
     "from": "fireSenseUtils"
   },
@@ -469,13 +407,6 @@
   {
     "package": "peutils",
     "url": "https://github.com/PredictiveEcology/peutils",
-    "via": ["fireSenseUtils", "pemisc"],
-    "branch": "development",
-    "from": "fireSenseUtils"
-  },
-  {
-    "package": "peutils",
-    "url": "https://github.com/PredictiveEcology/peutils",
     "via": ["fireSenseUtils", "LandR", "map", "pemisc"],
     "branch": "development",
     "from": "fireSenseUtils"
@@ -490,14 +421,7 @@
   {
     "package": "peutils",
     "url": "https://github.com/PredictiveEcology/peutils",
-    "via": ["fireSenseUtils", "usefulFuns", "LandR", "map", "pemisc"],
-    "branch": "development",
-    "from": "fireSenseUtils"
-  },
-  {
-    "package": "peutils",
-    "url": "https://github.com/PredictiveEcology/peutils",
-    "via": ["fireSenseUtils", "usefulFuns", "LandR", "pemisc"],
+    "via": ["fireSenseUtils", "pemisc"],
     "branch": "development",
     "from": "fireSenseUtils"
   },
@@ -546,28 +470,8 @@
   {
     "package": "reproducible",
     "url": "https://github.com/PredictiveEcology/reproducible",
-    "via": ["fireSenseUtils", "usefulFuns"],
-    "branch": "development",
-    "from": "fireSenseUtils"
-  },
-  {
-    "package": "reproducible",
-    "url": "https://github.com/PredictiveEcology/reproducible",
     "via": ["usefulFuns"],
     "branch": "development",
     "from": "usefulFuns"
-  },
-  {
-    "package": "stringfish",
-    "url": "https://github.com/traversc/stringfish",
-    "via": ["fireSenseUtils"],
-    "from": "fireSenseUtils"
-  },
-  {
-    "package": "usefulFuns",
-    "url": "https://github.com/PredictiveEcology/usefulFuns",
-    "via": ["fireSenseUtils"],
-    "branch": "development",
-    "from": "fireSenseUtils"
   }
 ]
