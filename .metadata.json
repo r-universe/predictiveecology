@@ -15,6 +15,10 @@
     "package": "LandWebUtils"
   },
   {
+    "package": "NetLogoR",
+    "oncran": true
+  },
+  {
     "package": "map"
   },
   {

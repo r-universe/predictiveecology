@@ -28,6 +28,11 @@
 	url = https://github.com/PredictiveEcology/LandWebUtils
 	shallow = true
 	registered = true
+[submodule "NetLogoR"]
+	path = NetLogoR
+	url = https://github.com/PredictiveEcology/NetLogoR
+	shallow = true
+	registered = true
 [submodule "map"]
 	path = map
 	url = https://github.com/PredictiveEcology/map
