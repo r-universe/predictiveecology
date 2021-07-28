@@ -28,13 +28,6 @@
     "from": "usefulFuns"
   },
   {
-    "package": "Require",
-    "url": "https://github.com/PredictiveEcology/Require",
-    "via": ["SpaDES.core"],
-    "branch": "development",
-    "from": "SpaDES.core"
-  },
-  {
     "package": "SpaDES.core",
     "url": "https://github.com/PredictiveEcology/SpaDES.core",
     "via": ["CBMutils"],
@@ -82,13 +75,6 @@
     "via": ["NetLogoR"],
     "branch": "development",
     "from": "NetLogoR"
-  },
-  {
-    "package": "SpaDES.tools",
-    "url": "https://github.com/PredictiveEcology/SpaDES.tools",
-    "via": ["SpaDES.core"],
-    "branch": "development",
-    "from": "SpaDES.core"
   },
   {
     "package": "SpaDES.tools",
@@ -496,13 +482,6 @@
   {
     "package": "quickPlot",
     "url": "https://github.com/PredictiveEcology/quickPlot",
-    "via": ["SpaDES.core"],
-    "branch": "development",
-    "from": "SpaDES.core"
-  },
-  {
-    "package": "quickPlot",
-    "url": "https://github.com/PredictiveEcology/quickPlot",
     "via": ["fireSenseUtils"],
     "branch": "development",
     "from": "fireSenseUtils"
@@ -513,13 +492,6 @@
     "via": ["LandR"],
     "branch": "development",
     "from": "LandR"
-  },
-  {
-    "package": "reproducible",
-    "url": "https://github.com/PredictiveEcology/reproducible",
-    "via": ["SpaDES.core"],
-    "branch": "development",
-    "from": "SpaDES.core"
   },
   {
     "package": "reproducible",
