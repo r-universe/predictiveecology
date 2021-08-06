@@ -58,6 +58,13 @@
   {
     "package": "SpaDES.tools",
     "url": "https://github.com/PredictiveEcology/SpaDES.tools",
+    "via": ["LandR"],
+    "branch": "development",
+    "from": "LandR"
+  },
+  {
+    "package": "SpaDES.tools",
+    "url": "https://github.com/PredictiveEcology/SpaDES.tools",
     "via": ["LandWebUtils", "LandR", "map"],
     "branch": "development",
     "from": "LandWebUtils"
