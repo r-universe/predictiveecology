@@ -15,8 +15,7 @@
     "package": "LandWebUtils"
   },
   {
-    "package": "NetLogoR",
-    "oncran": true
+    "package": "NetLogoR"
   },
   {
     "package": "map"
@@ -60,8 +59,7 @@
     "package": "SpaDES.shiny"
   },
   {
-    "package": "SpaDES.tools",
-    "oncran": true
+    "package": "SpaDES.tools"
   },
   {
     "package": "usefulFuns"
