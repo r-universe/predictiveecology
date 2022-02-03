@@ -59,7 +59,8 @@
     "package": "SpaDES.shiny"
   },
   {
-    "package": "SpaDES.tools"
+    "package": "SpaDES.tools",
+    "oncran": false
   },
   {
     "package": "usefulFuns"
