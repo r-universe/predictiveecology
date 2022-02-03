@@ -497,7 +497,7 @@
     "package": "reproducible",
     "url": "https://github.com/PredictiveEcology/reproducible",
     "via": ["LandR"],
-    "branch": "development",
+    "branch": "terraInProjectInputs",
     "from": "LandR"
   },
   {
