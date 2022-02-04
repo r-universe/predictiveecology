@@ -60,7 +60,7 @@
   },
   {
     "package": "SpaDES.tools",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "usefulFuns"
