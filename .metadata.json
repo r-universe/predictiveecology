@@ -16,7 +16,7 @@
   },
   {
     "package": "NetLogoR",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "map"
