@@ -42,6 +42,20 @@
     "from": "NetLogoR"
   },
   {
+    "package": "SpaDES.core",
+    "url": "https://github.com/PredictiveEcology/SpaDES.core",
+    "via": ["fireSenseUtils"],
+    "branch": "development",
+    "from": "fireSenseUtils"
+  },
+  {
+    "package": "SpaDES.install",
+    "url": "https://github.com/PredictiveEcology/SpaDES.install",
+    "via": ["fireSenseUtils"],
+    "branch": "installFromSource",
+    "from": "fireSenseUtils"
+  },
+  {
     "package": "SpaDES.tools",
     "url": "https://github.com/PredictiveEcology/SpaDES.tools",
     "via": ["CBMutils", "LandR", "map"],
