@@ -344,6 +344,13 @@
   {
     "package": "amc",
     "url": "https://github.com/achubaty/amc",
+    "via": ["mpbutils"],
+    "branch": "development",
+    "from": "mpbutils"
+  },
+  {
+    "package": "amc",
+    "url": "https://github.com/achubaty/amc",
     "via": ["pemisc"],
     "branch": "development",
     "from": "pemisc"
