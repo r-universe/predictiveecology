@@ -42,6 +42,13 @@
     "from": "fireSenseUtils"
   },
   {
+    "package": "Require",
+    "url": "https://github.com/PredictiveEcology/Require",
+    "via": ["fireSenseUtils"],
+    "branch": "development",
+    "from": "fireSenseUtils"
+  },
+  {
     "package": "SpaDES.core",
     "url": "https://github.com/PredictiveEcology/SpaDES.core",
     "via": ["CBMutils"],
