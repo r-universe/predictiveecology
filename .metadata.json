@@ -3,6 +3,13 @@
     "package": "amc"
   },
   {
+    "package": "RandomFields"
+  },
+  {
+    "package": "RandomFieldsUtils",
+    "oncran": false
+  },
+  {
     "package": "CBMutils"
   },
   {

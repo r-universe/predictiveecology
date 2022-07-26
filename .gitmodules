@@ -9,6 +9,16 @@
 	shallow = true
 	branch = development
 	registered = true
+[submodule "RandomFields"]
+	path = RandomFields
+	url = https://github.com/cran/RandomFields
+	shallow = true
+	registered = true
+[submodule "RandomFieldsUtils"]
+	path = RandomFieldsUtils
+	url = https://github.com/cran/RandomFieldsUtils
+	shallow = true
+	registered = true
 [submodule "CBMutils"]
 	path = CBMutils
 	url = https://github.com/PredictiveEcology/CBMutils
