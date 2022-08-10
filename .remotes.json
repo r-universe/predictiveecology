@@ -271,6 +271,12 @@
     "from": "quickPlot"
   },
   {
+    "package": "gdalUtils",
+    "url": "https://github.com/gearslaboratory/gdalUtils",
+    "via": ["map"],
+    "from": "map"
+  },
+  {
     "package": "googleID",
     "url": "https://github.com/MarkEdmondson1234/googleID",
     "via": ["SpaDES.shiny"],

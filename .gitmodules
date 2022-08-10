@@ -134,6 +134,11 @@
 	url = https://github.com/s-u/fastshp
 	shallow = true
 	registered = true
+[submodule "gdalUtils"]
+	path = gdalUtils
+	url = https://github.com/gearslaboratory/gdalUtils
+	shallow = true
+	registered = false
 [submodule "googleID"]
 	path = googleID
 	url = https://github.com/MarkEdmondson1234/googleID
