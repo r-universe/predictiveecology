@@ -265,6 +265,12 @@
     "from": "NetLogoR"
   },
   {
+    "package": "fastshp",
+    "url": "https://github.com/s-u/fastshp",
+    "via": ["quickPlot"],
+    "from": "quickPlot"
+  },
+  {
     "package": "gdalUtils",
     "url": "https://github.com/gearslaboratory/gdalUtils",
     "via": ["map"],
@@ -548,5 +554,11 @@
     "via": ["usefulFuns"],
     "branch": "development",
     "from": "usefulFuns"
+  },
+  {
+    "package": "visualTest",
+    "url": "https://github.com/MangoTheCat/visualTest",
+    "via": ["quickPlot"],
+    "from": "quickPlot"
   }
 ]
