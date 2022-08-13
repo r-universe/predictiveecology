@@ -134,6 +134,11 @@
 	url = https://github.com/s-u/fastshp
 	shallow = true
 	registered = true
+[submodule "NLMR"]
+	path = NLMR
+	url = https://github.com/achubaty/NLMR
+	shallow = true
+	registered = false
 [submodule "gdalUtils"]
 	path = gdalUtils
 	url = https://github.com/gearslaboratory/gdalUtils
