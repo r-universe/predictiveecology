@@ -74,6 +74,9 @@
     "package": "usefulFuns"
   },
   {
+    "package": "NLMR"
+  },
+  {
     "package": "fastshp"
   }
 ]
