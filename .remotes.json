@@ -29,7 +29,7 @@
   },
   {
     "package": "NLMR",
-    "url": "https://github.com/achubaty/NLMR",
+    "url": "https://github.com/ropensci/NLMR",
     "via": ["SpaDES.core"],
     "from": "SpaDES.core"
   },
