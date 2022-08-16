@@ -120,7 +120,6 @@
     "package": "SpaDES.tools",
     "url": "https://github.com/PredictiveEcology/SpaDES.tools",
     "via": ["LandR"],
-    "branch": "development",
     "from": "LandR"
   },
   {
@@ -297,6 +296,12 @@
     "via": ["usefulFuns", "LandR", "pemisc"],
     "branch": "development",
     "from": "usefulFuns"
+  },
+  {
+    "package": "fastshp",
+    "url": "https://github.com/s-u/fastshp",
+    "via": ["LandR", "quickPlot"],
+    "from": "LandR"
   },
   {
     "package": "fastshp",
@@ -570,6 +575,12 @@
   {
     "package": "quickPlot",
     "url": "https://github.com/PredictiveEcology/quickPlot",
+    "via": ["LandR"],
+    "from": "LandR"
+  },
+  {
+    "package": "quickPlot",
+    "url": "https://github.com/PredictiveEcology/quickPlot",
     "via": ["fireSenseUtils"],
     "branch": "development",
     "from": "fireSenseUtils"
@@ -578,7 +589,6 @@
     "package": "reproducible",
     "url": "https://github.com/PredictiveEcology/reproducible",
     "via": ["LandR"],
-    "branch": "development",
     "from": "LandR"
   },
   {
@@ -608,6 +618,12 @@
     "via": ["usefulFuns"],
     "branch": "development",
     "from": "usefulFuns"
+  },
+  {
+    "package": "visualTest",
+    "url": "https://github.com/MangoTheCat/visualTest",
+    "via": ["LandR", "quickPlot"],
+    "from": "LandR"
   },
   {
     "package": "visualTest",
