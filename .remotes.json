@@ -29,9 +29,22 @@
   },
   {
     "package": "NLMR",
+    "url": "https://github.com/achubaty/NLMR",
+    "via": ["NetLogoR", "SpaDES.core"],
+    "from": "NetLogoR"
+  },
+  {
+    "package": "NLMR",
     "url": "https://github.com/ropensci/NLMR",
     "via": ["SpaDES.core"],
     "from": "SpaDES.core"
+  },
+  {
+    "package": "Require",
+    "url": "https://github.com/PredictiveEcology/Require",
+    "via": ["NetLogoR", "SpaDES.core"],
+    "branch": "development",
+    "from": "NetLogoR"
   },
   {
     "package": "Require",
@@ -128,6 +141,13 @@
     "package": "SpaDES.tools",
     "url": "https://github.com/PredictiveEcology/SpaDES.tools",
     "via": ["NetLogoR"],
+    "branch": "development",
+    "from": "NetLogoR"
+  },
+  {
+    "package": "SpaDES.tools",
+    "url": "https://github.com/PredictiveEcology/SpaDES.tools",
+    "via": ["NetLogoR", "SpaDES.core"],
     "branch": "development",
     "from": "NetLogoR"
   },
@@ -560,6 +580,13 @@
     "via": ["LandR"],
     "branch": "development",
     "from": "LandR"
+  },
+  {
+    "package": "reproducible",
+    "url": "https://github.com/PredictiveEcology/reproducible",
+    "via": ["NetLogoR", "SpaDES.core"],
+    "branch": "development",
+    "from": "NetLogoR"
   },
   {
     "package": "reproducible",
