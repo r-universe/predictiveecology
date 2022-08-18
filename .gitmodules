@@ -131,7 +131,7 @@
 	registered = true
 [submodule "NLMR"]
 	path = NLMR
-	url = https://github.com/ropensci/NLMR
+	url = https://github.com/achubaty/NLMR
 	shallow = true
 	registered = true
 [submodule "fastshp"]
