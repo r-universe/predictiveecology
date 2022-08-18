@@ -78,5 +78,8 @@
   },
   {
     "package": "fastshp"
+  },
+  {
+    "package": "visualTest"
   }
 ]

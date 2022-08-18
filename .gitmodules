@@ -139,6 +139,11 @@
 	url = https://github.com/s-u/fastshp
 	shallow = true
 	registered = true
+[submodule "visualTest"]
+	path = visualTest
+	url = https://github.com/MangoTheCat/visualTest
+	shallow = true
+	registered = true
 [submodule "gdalUtils"]
 	path = gdalUtils
 	url = https://github.com/gearslaboratory/gdalUtils
@@ -147,10 +152,5 @@
 [submodule "googleID"]
 	path = googleID
 	url = https://github.com/MarkEdmondson1234/googleID
-	shallow = true
-	registered = false
-[submodule "visualTest"]
-	path = visualTest
-	url = https://github.com/MangoTheCat/visualTest
 	shallow = true
 	registered = false
