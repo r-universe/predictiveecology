@@ -126,6 +126,13 @@
     "from": "fireSenseUtils"
   },
   {
+    "package": "SpaDES.addins",
+    "url": "https://github.com/PredictiveEcology/SpaDES.addins",
+    "via": ["SpaDES"],
+    "branch": "development",
+    "from": "SpaDES"
+  },
+  {
     "package": "SpaDES.config",
     "url": "https://github.com/PredictiveEcology/SpaDES.config",
     "via": ["SpaDES.project"],
@@ -138,6 +145,13 @@
     "via": ["CBMutils"],
     "branch": "development",
     "from": "CBMutils"
+  },
+  {
+    "package": "SpaDES.core",
+    "url": "https://github.com/PredictiveEcology/SpaDES.core",
+    "via": ["SpaDES", "SpaDES.addins"],
+    "branch": "development",
+    "from": "SpaDES"
   },
   {
     "package": "SpaDES.core",
@@ -201,6 +215,13 @@
     "via": ["NetLogoR"],
     "branch": "development",
     "from": "NetLogoR"
+  },
+  {
+    "package": "SpaDES.tools",
+    "url": "https://github.com/PredictiveEcology/SpaDES.tools",
+    "via": ["SpaDES"],
+    "branch": "development",
+    "from": "SpaDES"
   },
   {
     "package": "SpaDES.tools",
@@ -630,6 +651,13 @@
   {
     "package": "quickPlot",
     "url": "https://github.com/PredictiveEcology/quickPlot",
+    "via": ["SpaDES"],
+    "branch": "development",
+    "from": "SpaDES"
+  },
+  {
+    "package": "quickPlot",
+    "url": "https://github.com/PredictiveEcology/quickPlot",
     "via": ["SpaDES.experiment"],
     "branch": "development",
     "from": "SpaDES.experiment"
@@ -654,6 +682,13 @@
     "via": ["LandR"],
     "branch": "development",
     "from": "LandR"
+  },
+  {
+    "package": "reproducible",
+    "url": "https://github.com/PredictiveEcology/reproducible",
+    "via": ["SpaDES"],
+    "branch": "development",
+    "from": "SpaDES"
   },
   {
     "package": "reproducible",
