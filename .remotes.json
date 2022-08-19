@@ -140,6 +140,7 @@
     "package": "SpaDES.tools",
     "url": "https://github.com/PredictiveEcology/SpaDES.tools",
     "via": ["LandR"],
+    "branch": "development",
     "from": "LandR"
   },
   {
@@ -603,6 +604,7 @@
     "package": "quickPlot",
     "url": "https://github.com/PredictiveEcology/quickPlot",
     "via": ["LandR"],
+    "branch": "development",
     "from": "LandR"
   },
   {
@@ -616,6 +618,7 @@
     "package": "reproducible",
     "url": "https://github.com/PredictiveEcology/reproducible",
     "via": ["LandR"],
+    "branch": "development",
     "from": "LandR"
   },
   {
