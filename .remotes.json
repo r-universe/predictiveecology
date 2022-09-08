@@ -344,6 +344,12 @@
     "from": "quickPlot"
   },
   {
+    "package": "gdalUtilities",
+    "url": "https://github.com/JoshOBrien/gdalUtilities",
+    "via": ["LandR"],
+    "from": "LandR"
+  },
+  {
     "package": "gdalUtils",
     "url": "https://github.com/gearslaboratory/gdalUtils",
     "via": ["map"],
