@@ -144,11 +144,6 @@
 	url = https://github.com/MangoTheCat/visualTest
 	shallow = true
 	registered = true
-[submodule "gdalUtilities"]
-	path = gdalUtilities
-	url = https://github.com/JoshOBrien/gdalUtilities
-	shallow = true
-	registered = false
 [submodule "gdalUtils"]
 	path = gdalUtils
 	url = https://github.com/gearslaboratory/gdalUtils
