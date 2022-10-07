@@ -664,6 +664,12 @@
     "from": "usefulFuns"
   },
   {
+    "package": "tiler",
+    "url": "https://github.com/achubaty/tiler",
+    "via": ["map"],
+    "from": "map"
+  },
+  {
     "package": "visualTest",
     "url": "https://github.com/MangoTheCat/visualTest",
     "via": ["LandR", "quickPlot"],

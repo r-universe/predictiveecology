@@ -154,3 +154,8 @@
 	url = https://github.com/MarkEdmondson1234/googleID
 	shallow = true
 	registered = false
+[submodule "tiler"]
+	path = tiler
+	url = https://github.com/achubaty/tiler
+	shallow = true
+	registered = false
