@@ -156,6 +156,6 @@
 	registered = false
 [submodule "tiler"]
 	path = tiler
-	url = https://github.com/achubaty/tiler
+	url = https://github.com/ropensci/tiler
 	shallow = true
 	registered = false

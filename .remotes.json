@@ -665,7 +665,7 @@
   },
   {
     "package": "tiler",
-    "url": "https://github.com/achubaty/tiler",
+    "url": "https://github.com/ropensci/tiler",
     "via": ["map"],
     "from": "map"
   },
