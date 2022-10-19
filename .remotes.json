@@ -346,6 +346,12 @@
   {
     "package": "gdalUtils",
     "url": "https://github.com/gearslaboratory/gdalUtils",
+    "via": ["LandR", "map"],
+    "from": "LandR"
+  },
+  {
+    "package": "gdalUtils",
+    "url": "https://github.com/gearslaboratory/gdalUtils",
     "via": ["LandWebUtils", "LandR", "map"],
     "from": "LandWebUtils"
   },
@@ -674,6 +680,12 @@
     "via": ["usefulFuns"],
     "branch": "development",
     "from": "usefulFuns"
+  },
+  {
+    "package": "tiler",
+    "url": "https://github.com/ropensci/tiler",
+    "via": ["LandR", "map"],
+    "from": "LandR"
   },
   {
     "package": "tiler",
