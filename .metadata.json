@@ -3,14 +3,10 @@
     "package": "amc"
   },
   {
-    "package": "RandomFields"
-  },
-  {
-    "package": "RandomFieldsUtils",
-    "oncran": false
-  },
-  {
     "package": "CBMutils"
+  },
+  {
+    "package": "fastshp"
   },
   {
     "package": "fireSenseUtils"
@@ -26,6 +22,9 @@
     "oncran": true
   },
   {
+    "package": "NLMR"
+  },
+  {
     "package": "map"
   },
   {
@@ -37,6 +36,13 @@
   {
     "package": "quickPlot",
     "oncran": true
+  },
+  {
+    "package": "RandomFields"
+  },
+  {
+    "package": "RandomFieldsUtils",
+    "oncran": false
   },
   {
     "package": "Require",
@@ -72,12 +78,6 @@
   },
   {
     "package": "usefulFuns"
-  },
-  {
-    "package": "NLMR"
-  },
-  {
-    "package": "fastshp"
   },
   {
     "package": "visualTest"

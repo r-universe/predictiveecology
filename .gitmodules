@@ -9,21 +9,16 @@
 	shallow = true
 	branch = development
 	registered = true
-[submodule "RandomFields"]
-	path = RandomFields
-	url = https://github.com/cran/RandomFields
-	shallow = true
-	registered = true
-[submodule "RandomFieldsUtils"]
-	path = RandomFieldsUtils
-	url = https://github.com/cran/RandomFieldsUtils
-	shallow = true
-	registered = true
 [submodule "CBMutils"]
 	path = CBMutils
 	url = https://github.com/PredictiveEcology/CBMutils
 	shallow = true
 	branch = development
+	registered = true
+[submodule "fastshp"]
+	path = fastshp
+	url = https://github.com/s-u/fastshp
+	shallow = true
 	registered = true
 [submodule "fireSenseUtils"]
 	path = fireSenseUtils
@@ -49,6 +44,11 @@
 	shallow = true
 	branch = development
 	registered = true
+[submodule "NLMR"]
+	path = NLMR
+	url = https://github.com/ropensci/NLMR
+	shallow = true
+	registered = true
 [submodule "map"]
 	path = map
 	url = https://github.com/PredictiveEcology/map
@@ -72,6 +72,16 @@
 	url = https://github.com/PredictiveEcology/quickPlot
 	shallow = true
 	branch = development
+	registered = true
+[submodule "RandomFields"]
+	path = RandomFields
+	url = https://github.com/cran/RandomFields
+	shallow = true
+	registered = true
+[submodule "RandomFieldsUtils"]
+	path = RandomFieldsUtils
+	url = https://github.com/cran/RandomFieldsUtils
+	shallow = true
 	registered = true
 [submodule "Require"]
 	path = Require
@@ -128,16 +138,6 @@
 	url = https://github.com/PredictiveEcology/usefulFuns
 	shallow = true
 	branch = development
-	registered = true
-[submodule "NLMR"]
-	path = NLMR
-	url = https://github.com/achubaty/NLMR
-	shallow = true
-	registered = true
-[submodule "fastshp"]
-	path = fastshp
-	url = https://github.com/s-u/fastshp
-	shallow = true
 	registered = true
 [submodule "visualTest"]
 	path = visualTest
