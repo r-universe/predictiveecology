@@ -18,8 +18,7 @@
     "package": "LandWebUtils"
   },
   {
-    "package": "NetLogoR",
-    "oncran": true
+    "package": "NetLogoR"
   },
   {
     "package": "NLMR"
@@ -45,20 +44,16 @@
     "oncran": false
   },
   {
-    "package": "Require",
-    "oncran": true
+    "package": "Require"
   },
   {
-    "package": "reproducible",
-    "oncran": true
+    "package": "reproducible"
   },
   {
-    "package": "SpaDES.addins",
-    "oncran": true
+    "package": "SpaDES.addins"
   },
   {
-    "package": "SpaDES.core",
-    "oncran": true
+    "package": "SpaDES.core"
   },
   {
     "package": "SpaDES.experiment"
@@ -73,8 +68,7 @@
     "package": "SpaDES.shiny"
   },
   {
-    "package": "SpaDES.tools",
-    "oncran": true
+    "package": "SpaDES.tools"
   },
   {
     "package": "usefulFuns"
