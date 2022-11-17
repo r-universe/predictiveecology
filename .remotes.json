@@ -29,6 +29,12 @@
   },
   {
     "package": "NLMR",
+    "url": "https://github.com/ropensci/NLMR",
+    "via": ["CBMutils", "SpaDES.core"],
+    "from": "CBMutils"
+  },
+  {
+    "package": "NLMR",
     "url": "https://github.com/achubaty/NLMR",
     "via": ["NetLogoR", "SpaDES.core"],
     "from": "NetLogoR"
@@ -50,6 +56,13 @@
     "url": "https://github.com/ropensci/NLMR",
     "via": ["SpaDES.tools"],
     "from": "SpaDES.tools"
+  },
+  {
+    "package": "Require",
+    "url": "https://github.com/PredictiveEcology/Require",
+    "via": ["CBMutils", "SpaDES.core"],
+    "branch": "development",
+    "from": "CBMutils"
   },
   {
     "package": "Require",
@@ -132,6 +145,13 @@
     "package": "SpaDES.tools",
     "url": "https://github.com/PredictiveEcology/SpaDES.tools",
     "via": ["CBMutils", "LandR", "map"],
+    "branch": "development",
+    "from": "CBMutils"
+  },
+  {
+    "package": "SpaDES.tools",
+    "url": "https://github.com/PredictiveEcology/SpaDES.tools",
+    "via": ["CBMutils", "SpaDES.core"],
     "branch": "development",
     "from": "CBMutils"
   },
@@ -348,6 +368,12 @@
     "url": "https://github.com/s-u/fastshp",
     "via": ["quickPlot"],
     "from": "quickPlot"
+  },
+  {
+    "package": "gdalUtils",
+    "url": "https://github.com/gearslaboratory/gdalUtils",
+    "via": ["CBMutils", "LandR", "map"],
+    "from": "CBMutils"
   },
   {
     "package": "gdalUtils",
@@ -641,6 +667,13 @@
   {
     "package": "reproducible",
     "url": "https://github.com/PredictiveEcology/reproducible",
+    "via": ["CBMutils", "SpaDES.core"],
+    "branch": "development",
+    "from": "CBMutils"
+  },
+  {
+    "package": "reproducible",
+    "url": "https://github.com/PredictiveEcology/reproducible",
     "via": ["LandR"],
     "branch": "development",
     "from": "LandR"
@@ -686,6 +719,12 @@
     "via": ["usefulFuns"],
     "branch": "development",
     "from": "usefulFuns"
+  },
+  {
+    "package": "tiler",
+    "url": "https://github.com/ropensci/tiler",
+    "via": ["CBMutils", "LandR", "map"],
+    "from": "CBMutils"
   },
   {
     "package": "tiler",
