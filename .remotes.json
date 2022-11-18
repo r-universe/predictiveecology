@@ -354,6 +354,12 @@
   {
     "package": "fastshp",
     "url": "https://github.com/s-u/fastshp",
+    "via": ["CBMutils", "quickPlot"],
+    "from": "CBMutils"
+  },
+  {
+    "package": "fastshp",
+    "url": "https://github.com/s-u/fastshp",
     "via": ["LandR", "quickPlot"],
     "from": "LandR"
   },
@@ -653,6 +659,13 @@
   {
     "package": "quickPlot",
     "url": "https://github.com/PredictiveEcology/quickPlot",
+    "via": ["CBMutils"],
+    "branch": "development",
+    "from": "CBMutils"
+  },
+  {
+    "package": "quickPlot",
+    "url": "https://github.com/PredictiveEcology/quickPlot",
     "via": ["LandR"],
     "branch": "development",
     "from": "LandR"
@@ -663,6 +676,13 @@
     "via": ["fireSenseUtils"],
     "branch": "development",
     "from": "fireSenseUtils"
+  },
+  {
+    "package": "reproducible",
+    "url": "https://github.com/PredictiveEcology/reproducible",
+    "via": ["CBMutils"],
+    "branch": "development",
+    "from": "CBMutils"
   },
   {
     "package": "reproducible",
@@ -749,6 +769,12 @@
     "url": "https://github.com/ropensci/tiler",
     "via": ["map"],
     "from": "map"
+  },
+  {
+    "package": "visualTest",
+    "url": "https://github.com/MangoTheCat/visualTest",
+    "via": ["CBMutils", "quickPlot"],
+    "from": "CBMutils"
   },
   {
     "package": "visualTest",
