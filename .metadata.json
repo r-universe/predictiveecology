@@ -44,7 +44,8 @@
     "oncran": false
   },
   {
-    "package": "Require"
+    "package": "Require",
+    "oncran": false
   },
   {
     "package": "reproducible"
