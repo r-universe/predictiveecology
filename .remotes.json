@@ -35,6 +35,18 @@
   },
   {
     "package": "NLMR",
+    "url": "https://github.com/ropensci/NLMR",
+    "via": ["LandR", "map", "SpaDES.tools"],
+    "from": "LandR"
+  },
+  {
+    "package": "NLMR",
+    "url": "https://github.com/ropensci/NLMR",
+    "via": ["LandR", "SpaDES.tools"],
+    "from": "LandR"
+  },
+  {
+    "package": "NLMR",
     "url": "https://github.com/achubaty/NLMR",
     "via": ["NetLogoR", "SpaDES.core"],
     "from": "NetLogoR"
