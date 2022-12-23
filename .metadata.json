@@ -47,7 +47,8 @@
     "oncran": true
   },
   {
-    "package": "reproducible"
+    "package": "reproducible",
+    "oncran": true
   },
   {
     "package": "SpaDES.addins"
