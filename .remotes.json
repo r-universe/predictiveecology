@@ -64,6 +64,12 @@
     "from": "SpaDES.tools"
   },
   {
+    "package": "NLMR",
+    "url": "https://github.com/ropensci/NLMR",
+    "via": ["map", "SpaDES.tools"],
+    "from": "map"
+  },
+  {
     "package": "Require",
     "url": "https://github.com/PredictiveEcology/Require",
     "via": ["CBMutils", "SpaDES.core"],
