@@ -47,8 +47,20 @@
   },
   {
     "package": "NLMR",
-    "url": "https://github.com/achubaty/NLMR",
+    "url": "https://github.com/ropensci/NLMR",
+    "via": ["NetLogoR", "SpaDES.tools"],
+    "from": "NetLogoR"
+  },
+  {
+    "package": "NLMR",
+    "url": "https://github.com/ropensci/NLMR",
     "via": ["NetLogoR", "SpaDES.core"],
+    "from": "NetLogoR"
+  },
+  {
+    "package": "NLMR",
+    "url": "https://github.com/ropensci/NLMR",
+    "via": ["NetLogoR", "SpaDES.core", "SpaDES.tools"],
     "from": "NetLogoR"
   },
   {
