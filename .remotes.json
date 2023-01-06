@@ -72,18 +72,6 @@
   {
     "package": "NLMR",
     "url": "https://github.com/ropensci/NLMR",
-    "via": ["SpaDES.core"],
-    "from": "SpaDES.core"
-  },
-  {
-    "package": "NLMR",
-    "url": "https://github.com/ropensci/NLMR",
-    "via": ["SpaDES.core", "SpaDES.tools"],
-    "from": "SpaDES.core"
-  },
-  {
-    "package": "NLMR",
-    "url": "https://github.com/ropensci/NLMR",
     "via": ["SpaDES.tools"],
     "from": "SpaDES.tools"
   },
@@ -113,13 +101,6 @@
     "via": ["SpaDES.addins", "SpaDES.core"],
     "branch": "development",
     "from": "SpaDES.addins"
-  },
-  {
-    "package": "Require",
-    "url": "https://github.com/PredictiveEcology/Require",
-    "via": ["SpaDES.core"],
-    "branch": "development",
-    "from": "SpaDES.core"
   },
   {
     "package": "Require",
@@ -239,13 +220,6 @@
     "via": ["SpaDES.addins", "SpaDES.core"],
     "branch": "development",
     "from": "SpaDES.addins"
-  },
-  {
-    "package": "SpaDES.tools",
-    "url": "https://github.com/PredictiveEcology/SpaDES.tools",
-    "via": ["SpaDES.core"],
-    "branch": "development",
-    "from": "SpaDES.core"
   },
   {
     "package": "SpaDES.tools",
