@@ -129,13 +129,6 @@
   {
     "package": "Require",
     "url": "https://github.com/PredictiveEcology/Require",
-    "via": ["SpaDES.core"],
-    "branch": "development",
-    "from": "SpaDES.core"
-  },
-  {
-    "package": "Require",
-    "url": "https://github.com/PredictiveEcology/Require",
     "via": ["SpaDES.install"],
     "branch": "development",
     "from": "SpaDES.install"
