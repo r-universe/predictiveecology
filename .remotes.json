@@ -112,6 +112,12 @@
     "from": "map"
   },
   {
+    "package": "NLMR",
+    "url": "https://github.com/ropensci/NLMR",
+    "via": ["usefulFuns", "LandR", "map", "SpaDES.tools"],
+    "from": "usefulFuns"
+  },
+  {
     "package": "Require",
     "url": "https://github.com/PredictiveEcology/Require",
     "via": ["CBMutils", "SpaDES.core"],
@@ -442,6 +448,12 @@
     "url": "https://github.com/gearslaboratory/gdalUtils",
     "via": ["map"],
     "from": "map"
+  },
+  {
+    "package": "gdalUtils",
+    "url": "https://github.com/gearslaboratory/gdalUtils",
+    "via": ["usefulFuns", "LandR", "map"],
+    "from": "usefulFuns"
   },
   {
     "package": "googleID",
@@ -799,6 +811,12 @@
     "url": "https://github.com/ropensci/tiler",
     "via": ["map"],
     "from": "map"
+  },
+  {
+    "package": "tiler",
+    "url": "https://github.com/ropensci/tiler",
+    "via": ["usefulFuns", "LandR", "map"],
+    "from": "usefulFuns"
   },
   {
     "package": "visualTest",
