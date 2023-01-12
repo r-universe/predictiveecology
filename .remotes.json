@@ -127,13 +127,6 @@
   {
     "package": "Require",
     "url": "https://github.com/PredictiveEcology/Require",
-    "via": ["SpaDES.addins", "SpaDES.core"],
-    "branch": "development",
-    "from": "SpaDES.addins"
-  },
-  {
-    "package": "Require",
-    "url": "https://github.com/PredictiveEcology/Require",
     "via": ["SpaDES.install"],
     "branch": "development",
     "from": "SpaDES.install"
@@ -235,13 +228,6 @@
     "via": ["NetLogoR"],
     "branch": "development",
     "from": "NetLogoR"
-  },
-  {
-    "package": "SpaDES.tools",
-    "url": "https://github.com/PredictiveEcology/SpaDES.tools",
-    "via": ["SpaDES.addins", "SpaDES.core"],
-    "branch": "development",
-    "from": "SpaDES.addins"
   },
   {
     "package": "SpaDES.tools",
@@ -752,13 +738,6 @@
     "package": "reproducible",
     "url": "https://github.com/PredictiveEcology/reproducible",
     "via": ["SpaDES.addins"],
-    "branch": "development",
-    "from": "SpaDES.addins"
-  },
-  {
-    "package": "reproducible",
-    "url": "https://github.com/PredictiveEcology/reproducible",
-    "via": ["SpaDES.addins", "SpaDES.core"],
     "branch": "development",
     "from": "SpaDES.addins"
   },
