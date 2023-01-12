@@ -90,6 +90,24 @@
   {
     "package": "NLMR",
     "url": "https://github.com/ropensci/NLMR",
+    "via": ["fireSenseUtils", "LandR", "map", "SpaDES.tools"],
+    "from": "fireSenseUtils"
+  },
+  {
+    "package": "NLMR",
+    "url": "https://github.com/ropensci/NLMR",
+    "via": ["fireSenseUtils", "SpaDES.core"],
+    "from": "fireSenseUtils"
+  },
+  {
+    "package": "NLMR",
+    "url": "https://github.com/ropensci/NLMR",
+    "via": ["fireSenseUtils", "SpaDES.tools"],
+    "from": "fireSenseUtils"
+  },
+  {
+    "package": "NLMR",
+    "url": "https://github.com/ropensci/NLMR",
     "via": ["map", "SpaDES.tools"],
     "from": "map"
   },
@@ -380,6 +398,12 @@
   {
     "package": "fastshp",
     "url": "https://github.com/s-u/fastshp",
+    "via": ["fireSenseUtils", "quickPlot"],
+    "from": "fireSenseUtils"
+  },
+  {
+    "package": "fastshp",
+    "url": "https://github.com/s-u/fastshp",
     "via": ["quickPlot"],
     "from": "quickPlot"
   },
@@ -406,6 +430,12 @@
     "url": "https://github.com/gearslaboratory/gdalUtils",
     "via": ["LandWebUtils", "map"],
     "from": "LandWebUtils"
+  },
+  {
+    "package": "gdalUtils",
+    "url": "https://github.com/gearslaboratory/gdalUtils",
+    "via": ["fireSenseUtils", "LandR", "map"],
+    "from": "fireSenseUtils"
   },
   {
     "package": "gdalUtils",
@@ -761,6 +791,12 @@
   {
     "package": "tiler",
     "url": "https://github.com/ropensci/tiler",
+    "via": ["fireSenseUtils", "LandR", "map"],
+    "from": "fireSenseUtils"
+  },
+  {
+    "package": "tiler",
+    "url": "https://github.com/ropensci/tiler",
     "via": ["map"],
     "from": "map"
   },
@@ -775,6 +811,12 @@
     "url": "https://github.com/MangoTheCat/visualTest",
     "via": ["LandR", "quickPlot"],
     "from": "LandR"
+  },
+  {
+    "package": "visualTest",
+    "url": "https://github.com/MangoTheCat/visualTest",
+    "via": ["fireSenseUtils", "quickPlot"],
+    "from": "fireSenseUtils"
   },
   {
     "package": "visualTest",
