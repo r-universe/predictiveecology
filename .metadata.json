@@ -60,9 +60,6 @@
     "package": "SpaDES.experiment"
   },
   {
-    "package": "SpaDES.install"
-  },
-  {
     "package": "SpaDES.project"
   },
   {

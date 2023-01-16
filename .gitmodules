@@ -99,6 +99,7 @@
 	path = SpaDES.addins
 	url = https://github.com/PredictiveEcology/SpaDES.addins
 	shallow = true
+	branch = development
 	registered = true
 [submodule "SpaDES.core"]
 	path = SpaDES.core
@@ -110,22 +111,19 @@
 	path = SpaDES.experiment
 	url = https://github.com/PredictiveEcology/SpaDES.experiment
 	shallow = true
-	registered = true
-[submodule "SpaDES.install"]
-	path = SpaDES.install
-	url = https://github.com/PredictiveEcology/SpaDES.install
-	shallow = true
 	branch = development
 	registered = true
 [submodule "SpaDES.project"]
 	path = SpaDES.project
 	url = https://github.com/PredictiveEcology/SpaDES.project
 	shallow = true
+	branch = transition
 	registered = true
 [submodule "SpaDES.shiny"]
 	path = SpaDES.shiny
 	url = https://github.com/PredictiveEcology/SpaDES.shiny
 	shallow = true
+	branch = development
 	registered = true
 [submodule "SpaDES.tools"]
 	path = SpaDES.tools
@@ -144,6 +142,12 @@
 	url = https://github.com/MangoTheCat/visualTest
 	shallow = true
 	registered = true
+[submodule "SpaDES.install"]
+	path = SpaDES.install
+	url = https://github.com/PredictiveEcology/SpaDES.install
+	shallow = true
+	branch = development
+	registered = false
 [submodule "gdalUtils"]
 	path = gdalUtils
 	url = https://github.com/gearslaboratory/gdalUtils
