@@ -810,9 +810,23 @@
   {
     "package": "reproducible",
     "url": "https://github.com/PredictiveEcology/reproducible",
+    "via": ["map"],
+    "branch": "development",
+    "from": "map"
+  },
+  {
+    "package": "reproducible",
+    "url": "https://github.com/PredictiveEcology/reproducible",
     "via": ["usefulFuns"],
     "branch": "development",
     "from": "usefulFuns"
+  },
+  {
+    "package": "terra",
+    "url": "https://github.com/rspatial/terra",
+    "via": ["map"],
+    "branch": "6a3ea837be88de5a66cd0577c6d79c1091562547",
+    "from": "map"
   },
   {
     "package": "tiler",
