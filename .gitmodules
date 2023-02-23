@@ -158,6 +158,11 @@
 	url = https://github.com/MarkEdmondson1234/googleID
 	shallow = true
 	registered = false
+[submodule "sf"]
+	path = sf
+	url = https://github.com/r-spatial/sf
+	shallow = true
+	registered = false
 [submodule "terra"]
 	path = terra
 	url = https://github.com/rspatial/terra
