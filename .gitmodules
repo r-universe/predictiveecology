@@ -142,12 +142,6 @@
 	url = https://github.com/MangoTheCat/visualTest
 	shallow = true
 	registered = true
-[submodule "SpaDES.install"]
-	path = SpaDES.install
-	url = https://github.com/PredictiveEcology/SpaDES.install
-	shallow = true
-	branch = development
-	registered = false
 [submodule "gdalUtils"]
 	path = gdalUtils
 	url = https://github.com/gearslaboratory/gdalUtils
