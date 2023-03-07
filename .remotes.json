@@ -780,12 +780,6 @@
     "from": "usefulFuns"
   },
   {
-    "package": "sf",
-    "url": "https://github.com/r-spatial/sf",
-    "via": ["LandR"],
-    "from": "LandR"
-  },
-  {
     "package": "terra",
     "url": "https://github.com/rspatial/terra",
     "via": ["map"],
