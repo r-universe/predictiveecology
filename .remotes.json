@@ -102,6 +102,12 @@
   {
     "package": "NLMR",
     "url": "https://github.com/ropensci/NLMR",
+    "via": ["SpaDES.project", "SpaDES.core"],
+    "from": "SpaDES.project"
+  },
+  {
+    "package": "NLMR",
+    "url": "https://github.com/ropensci/NLMR",
     "via": ["SpaDES.tools"],
     "from": "SpaDES.tools"
   },
@@ -139,6 +145,13 @@
     "package": "Require",
     "url": "https://github.com/PredictiveEcology/Require",
     "via": ["SpaDES.project"],
+    "branch": "RSPM",
+    "from": "SpaDES.project"
+  },
+  {
+    "package": "Require",
+    "url": "https://github.com/PredictiveEcology/Require",
+    "via": ["SpaDES.project", "SpaDES.config"],
     "branch": "development",
     "from": "SpaDES.project"
   },
@@ -148,6 +161,13 @@
     "via": ["fireSenseUtils"],
     "branch": "development",
     "from": "fireSenseUtils"
+  },
+  {
+    "package": "SpaDES.config",
+    "url": "https://github.com/PredictiveEcology/SpaDES.config",
+    "via": ["SpaDES.project"],
+    "branch": "development",
+    "from": "SpaDES.project"
   },
   {
     "package": "SpaDES.core",
@@ -176,6 +196,13 @@
     "via": ["SpaDES.experiment"],
     "branch": "development",
     "from": "SpaDES.experiment"
+  },
+  {
+    "package": "SpaDES.core",
+    "url": "https://github.com/PredictiveEcology/SpaDES.core",
+    "via": ["SpaDES.project"],
+    "branch": "development",
+    "from": "SpaDES.project"
   },
   {
     "package": "SpaDES.core",
@@ -757,6 +784,13 @@
     "via": ["SpaDES.experiment"],
     "branch": "development",
     "from": "SpaDES.experiment"
+  },
+  {
+    "package": "reproducible",
+    "url": "https://github.com/PredictiveEcology/reproducible",
+    "via": ["SpaDES.project"],
+    "branch": "development",
+    "from": "SpaDES.project"
   },
   {
     "package": "reproducible",
