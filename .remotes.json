@@ -145,7 +145,7 @@
     "package": "Require",
     "url": "https://github.com/PredictiveEcology/Require",
     "via": ["SpaDES.project"],
-    "branch": "RSPM",
+    "branch": "development",
     "from": "SpaDES.project"
   },
   {
