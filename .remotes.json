@@ -54,12 +54,6 @@
   {
     "package": "NLMR",
     "url": "https://github.com/ropensci/NLMR",
-    "via": ["NetLogoR", "SpaDES.tools"],
-    "from": "NetLogoR"
-  },
-  {
-    "package": "NLMR",
-    "url": "https://github.com/ropensci/NLMR",
     "via": ["NetLogoR", "SpaDES.core"],
     "from": "NetLogoR"
   },
