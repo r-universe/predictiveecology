@@ -755,6 +755,13 @@
   },
   {
     "package": "reproducible",
+    "url": "https://github.com/predictiveecology/reproducible",
+    "via": ["SpaDES.core"],
+    "branch": "development",
+    "from": "SpaDES.core"
+  },
+  {
+    "package": "reproducible",
     "url": "https://github.com/PredictiveEcology/reproducible",
     "via": ["SpaDES.experiment"],
     "branch": "development",
