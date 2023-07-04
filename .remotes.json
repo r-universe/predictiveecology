@@ -65,12 +65,6 @@
   },
   {
     "package": "NLMR",
-    "url": "https://github.com/ropensci/NLMR",
-    "via": ["SpaDES.core"],
-    "from": "SpaDES.core"
-  },
-  {
-    "package": "NLMR",
     "url": "https://github.com/achubaty/NLMR",
     "via": ["SpaDES.experiment"],
     "from": "SpaDES.experiment"
@@ -752,13 +746,6 @@
     "via": ["SpaDES.addins"],
     "branch": "development",
     "from": "SpaDES.addins"
-  },
-  {
-    "package": "reproducible",
-    "url": "https://github.com/predictiveecology/reproducible",
-    "via": ["SpaDES.core"],
-    "branch": "development",
-    "from": "SpaDES.core"
   },
   {
     "package": "reproducible",
