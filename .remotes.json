@@ -54,12 +54,6 @@
   {
     "package": "NLMR",
     "url": "https://github.com/ropensci/NLMR",
-    "via": ["NetLogoR", "SpaDES.core"],
-    "from": "NetLogoR"
-  },
-  {
-    "package": "NLMR",
-    "url": "https://github.com/ropensci/NLMR",
     "via": ["SpaDES.addins", "SpaDES.core"],
     "from": "SpaDES.addins"
   },
@@ -150,13 +144,6 @@
     "via": ["CBMutils"],
     "branch": "development",
     "from": "CBMutils"
-  },
-  {
-    "package": "SpaDES.core",
-    "url": "https://github.com/PredictiveEcology/SpaDES.core",
-    "via": ["NetLogoR"],
-    "branch": "development",
-    "from": "NetLogoR"
   },
   {
     "package": "SpaDES.core",
@@ -386,12 +373,6 @@
     "url": "https://github.com/s-u/fastshp",
     "via": ["LandR", "quickPlot"],
     "from": "LandR"
-  },
-  {
-    "package": "fastshp",
-    "url": "https://github.com/s-u/fastshp",
-    "via": ["NetLogoR"],
-    "from": "NetLogoR"
   },
   {
     "package": "fastshp",
@@ -711,6 +692,13 @@
     "via": ["LandR"],
     "branch": "development",
     "from": "LandR"
+  },
+  {
+    "package": "quickPlot",
+    "url": "https://github.com/PredictiveEcology/quickPlot",
+    "via": ["NetLogoR"],
+    "branch": "development",
+    "from": "NetLogoR"
   },
   {
     "package": "quickPlot",
