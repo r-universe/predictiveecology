@@ -218,6 +218,13 @@
   {
     "package": "SpaDES.tools",
     "url": "https://github.com/PredictiveEcology/SpaDES.tools",
+    "via": ["SpaDES.core"],
+    "branch": "development",
+    "from": "SpaDES.core"
+  },
+  {
+    "package": "SpaDES.tools",
+    "url": "https://github.com/PredictiveEcology/SpaDES.tools",
     "via": ["SpaDES.experiment"],
     "branch": "development",
     "from": "SpaDES.experiment"
