@@ -696,13 +696,6 @@
   {
     "package": "quickPlot",
     "url": "https://github.com/PredictiveEcology/quickPlot",
-    "via": ["NetLogoR"],
-    "branch": "development",
-    "from": "NetLogoR"
-  },
-  {
-    "package": "quickPlot",
-    "url": "https://github.com/PredictiveEcology/quickPlot",
     "via": ["SpaDES.experiment"],
     "branch": "development",
     "from": "SpaDES.experiment"
