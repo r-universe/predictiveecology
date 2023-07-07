@@ -30,18 +30,6 @@
   {
     "package": "NLMR",
     "url": "https://github.com/ropensci/NLMR",
-    "via": ["CBMutils", "LandR", "map", "SpaDES.tools"],
-    "from": "CBMutils"
-  },
-  {
-    "package": "NLMR",
-    "url": "https://github.com/ropensci/NLMR",
-    "via": ["CBMutils", "SpaDES.core"],
-    "from": "CBMutils"
-  },
-  {
-    "package": "NLMR",
-    "url": "https://github.com/ropensci/NLMR",
     "via": ["LandWebUtils", "LandR", "map", "SpaDES.tools"],
     "from": "LandWebUtils"
   },
@@ -260,13 +248,6 @@
   {
     "package": "amc",
     "url": "https://github.com/achubaty/amc",
-    "via": ["CBMutils", "LandR", "pemisc"],
-    "branch": "development",
-    "from": "CBMutils"
-  },
-  {
-    "package": "amc",
-    "url": "https://github.com/achubaty/amc",
     "via": ["LandR", "map", "pemisc"],
     "branch": "development",
     "from": "LandR"
@@ -361,12 +342,6 @@
     "via": ["usefulFuns", "LandR", "pemisc"],
     "branch": "development",
     "from": "usefulFuns"
-  },
-  {
-    "package": "fastshp",
-    "url": "https://github.com/s-u/fastshp",
-    "via": ["CBMutils", "quickPlot"],
-    "from": "CBMutils"
   },
   {
     "package": "fastshp",
@@ -486,13 +461,6 @@
   {
     "package": "pemisc",
     "url": "https://github.com/PredictiveEcology/pemisc",
-    "via": ["CBMutils", "LandR"],
-    "branch": "development",
-    "from": "CBMutils"
-  },
-  {
-    "package": "pemisc",
-    "url": "https://github.com/PredictiveEcology/pemisc",
     "via": ["LandR", "map"],
     "branch": "development",
     "from": "LandR"
@@ -578,13 +546,6 @@
     "package": "peutils",
     "url": "https://github.com/PredictiveEcology/peutils",
     "via": ["CBMutils", "LandR", "map", "pemisc"],
-    "branch": "development",
-    "from": "CBMutils"
-  },
-  {
-    "package": "peutils",
-    "url": "https://github.com/PredictiveEcology/peutils",
-    "via": ["CBMutils", "LandR", "pemisc"],
     "branch": "development",
     "from": "CBMutils"
   },
@@ -811,12 +772,6 @@
     "url": "https://github.com/ropensci/tiler",
     "via": ["usefulFuns", "LandR", "map"],
     "from": "usefulFuns"
-  },
-  {
-    "package": "visualTest",
-    "url": "https://github.com/MangoTheCat/visualTest",
-    "via": ["CBMutils", "quickPlot"],
-    "from": "CBMutils"
   },
   {
     "package": "visualTest",
