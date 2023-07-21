@@ -178,13 +178,6 @@
   {
     "package": "SpaDES.tools",
     "url": "https://github.com/PredictiveEcology/SpaDES.tools",
-    "via": ["LandR"],
-    "branch": "development",
-    "from": "LandR"
-  },
-  {
-    "package": "SpaDES.tools",
-    "url": "https://github.com/PredictiveEcology/SpaDES.tools",
     "via": ["LandWebUtils", "LandR", "map"],
     "branch": "development",
     "from": "LandWebUtils"
@@ -249,13 +242,6 @@
     "package": "amc",
     "url": "https://github.com/achubaty/amc",
     "via": ["LandR", "map", "pemisc"],
-    "branch": "development",
-    "from": "LandR"
-  },
-  {
-    "package": "amc",
-    "url": "https://github.com/achubaty/amc",
-    "via": ["LandR", "pemisc"],
     "branch": "development",
     "from": "LandR"
   },
@@ -342,12 +328,6 @@
     "via": ["usefulFuns", "LandR", "pemisc"],
     "branch": "development",
     "from": "usefulFuns"
-  },
-  {
-    "package": "fastshp",
-    "url": "https://github.com/s-u/fastshp",
-    "via": ["LandR", "quickPlot"],
-    "from": "LandR"
   },
   {
     "package": "fastshp",
@@ -468,13 +448,6 @@
   {
     "package": "pemisc",
     "url": "https://github.com/PredictiveEcology/pemisc",
-    "via": ["LandR"],
-    "branch": "development",
-    "from": "LandR"
-  },
-  {
-    "package": "pemisc",
-    "url": "https://github.com/PredictiveEcology/pemisc",
     "via": ["LandWebUtils", "LandR", "map"],
     "branch": "development",
     "from": "LandWebUtils"
@@ -553,13 +526,6 @@
     "package": "peutils",
     "url": "https://github.com/PredictiveEcology/peutils",
     "via": ["LandR", "map", "pemisc"],
-    "branch": "development",
-    "from": "LandR"
-  },
-  {
-    "package": "peutils",
-    "url": "https://github.com/PredictiveEcology/peutils",
-    "via": ["LandR", "pemisc"],
     "branch": "development",
     "from": "LandR"
   },
@@ -772,12 +738,6 @@
     "url": "https://github.com/ropensci/tiler",
     "via": ["usefulFuns", "LandR", "map"],
     "from": "usefulFuns"
-  },
-  {
-    "package": "visualTest",
-    "url": "https://github.com/MangoTheCat/visualTest",
-    "via": ["LandR", "quickPlot"],
-    "from": "LandR"
   },
   {
     "package": "visualTest",
