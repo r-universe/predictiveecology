@@ -6,6 +6,9 @@
 	path = amc
 	url = https://github.com/achubaty/amc
 	branch = development
+[submodule "BioSIM"]
+	path = BioSIM
+	url = https://github.com/RNCan/BioSimClient_R
 [submodule "CBMutils"]
 	path = CBMutils
 	url = https://github.com/PredictiveEcology/CBMutils
@@ -17,6 +20,9 @@
 	path = fireSenseUtils
 	url = https://github.com/PredictiveEcology/fireSenseUtils
 	branch = development
+[submodule "J4R"]
+	path = J4R
+	url = https://github.com/CWFC-CCFB/J4R
 [submodule "LandR"]
 	path = LandR
 	url = https://github.com/PredictiveEcology/LandR
