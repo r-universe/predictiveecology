@@ -1,5 +1,11 @@
 [
   {
+    "package": "J4R",
+    "url": "https://github.com/CWFC-CCFB/J4R",
+    "via": ["BioSIM"],
+    "from": "BioSIM"
+  },
+  {
     "package": "LandR",
     "url": "https://github.com/PredictiveEcology/LandR",
     "via": ["CBMutils"],
