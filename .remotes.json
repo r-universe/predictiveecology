@@ -1,9 +1,21 @@
 [
   {
+    "package": "BioSIM",
+    "url": "https://github.com/achubaty/BioSimClient_R",
+    "via": ["LandR"],
+    "from": "LandR"
+  },
+  {
     "package": "J4R",
     "url": "https://github.com/CWFC-CCFB/J4R",
     "via": ["BioSIM"],
     "from": "BioSIM"
+  },
+  {
+    "package": "J4R",
+    "url": "https://github.com/CWFC-CCFB/J4R",
+    "via": ["LandR", "BioSIM"],
+    "from": "LandR"
   },
   {
     "package": "LandR",
