@@ -8,7 +8,7 @@
 	branch = development
 [submodule "BioSIM"]
 	path = BioSIM
-	url = https://github.com/RNCan/BioSimClient_R
+	url = https://github.com/achubaty/BioSimClient_R
 [submodule "CBMutils"]
 	path = CBMutils
 	url = https://github.com/PredictiveEcology/CBMutils
