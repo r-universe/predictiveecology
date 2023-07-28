@@ -348,6 +348,13 @@
     "from": "usefulFuns"
   },
   {
+    "package": "biomod2",
+    "url": "https://github.com/CeresBarros/biomod2",
+    "via": ["LandR"],
+    "branch": "dev_currentCeres",
+    "from": "LandR"
+  },
+  {
     "package": "fastshp",
     "url": "https://github.com/s-u/fastshp",
     "via": ["SpaDES.experiment", "quickPlot"],

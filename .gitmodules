@@ -104,6 +104,11 @@
 	url = https://github.com/PredictiveEcology/SpaDES.config
 	branch = development
 	registered = false
+[submodule "biomod2"]
+	path = biomod2
+	url = https://github.com/CeresBarros/biomod2
+	branch = dev_currentCeres
+	registered = false
 [submodule "gdalUtils"]
 	path = gdalUtils
 	url = https://github.com/gearslaboratory/gdalUtils
