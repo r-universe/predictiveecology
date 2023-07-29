@@ -72,18 +72,6 @@
   {
     "package": "NLMR",
     "url": "https://github.com/ropensci/NLMR",
-    "via": ["SpaDES.experiment", "SpaDES.core"],
-    "from": "SpaDES.experiment"
-  },
-  {
-    "package": "NLMR",
-    "url": "https://github.com/ropensci/NLMR",
-    "via": ["SpaDES.experiment", "SpaDES.tools"],
-    "from": "SpaDES.experiment"
-  },
-  {
-    "package": "NLMR",
-    "url": "https://github.com/ropensci/NLMR",
     "via": ["SpaDES.project", "SpaDES.core"],
     "from": "SpaDES.project"
   },
@@ -353,12 +341,6 @@
     "via": ["LandR"],
     "branch": "dev_currentCeres",
     "from": "LandR"
-  },
-  {
-    "package": "fastshp",
-    "url": "https://github.com/s-u/fastshp",
-    "via": ["SpaDES.experiment", "quickPlot"],
-    "from": "SpaDES.experiment"
   },
   {
     "package": "fastshp",
@@ -763,12 +745,6 @@
     "url": "https://github.com/ropensci/tiler",
     "via": ["usefulFuns", "LandR", "map"],
     "from": "usefulFuns"
-  },
-  {
-    "package": "visualTest",
-    "url": "https://github.com/MangoTheCat/visualTest",
-    "via": ["SpaDES.experiment", "quickPlot"],
-    "from": "SpaDES.experiment"
   },
   {
     "package": "visualTest",
