@@ -2,23 +2,12 @@
 	path = .registry
 	url = https://github.com/predictiveecology/universe
 	branch = HEAD
-[submodule "amc"]
-	path = amc
-	url = https://github.com/achubaty/amc
-	branch = development
 [submodule "BioSIM"]
 	path = BioSIM
 	url = https://github.com/achubaty/BioSimClient_R
 [submodule "CBMutils"]
 	path = CBMutils
 	url = https://github.com/PredictiveEcology/CBMutils
-	branch = development
-[submodule "fastshp"]
-	path = fastshp
-	url = https://github.com/s-u/fastshp
-[submodule "fireSenseUtils"]
-	path = fireSenseUtils
-	url = https://github.com/PredictiveEcology/fireSenseUtils
 	branch = development
 [submodule "J4R"]
 	path = J4R
@@ -31,28 +20,12 @@
 	path = LandWebUtils
 	url = https://github.com/PredictiveEcology/LandWebUtils
 	branch = development
-[submodule "NetLogoR"]
-	path = NetLogoR
-	url = https://github.com/PredictiveEcology/NetLogoR
-	branch = development
 [submodule "NLMR"]
 	path = NLMR
 	url = https://github.com/ropensci/NLMR
-[submodule "map"]
-	path = map
-	url = https://github.com/PredictiveEcology/map
-	branch = development
-[submodule "pemisc"]
-	path = pemisc
-	url = https://github.com/PredictiveEcology/pemisc
-	branch = development
-[submodule "peutils"]
-	path = peutils
-	url = https://github.com/PredictiveEcology/peutils
-	branch = development
-[submodule "quickPlot"]
-	path = quickPlot
-	url = https://github.com/PredictiveEcology/quickPlot
+[submodule "NetLogoR"]
+	path = NetLogoR
+	url = https://github.com/PredictiveEcology/NetLogoR
 	branch = development
 [submodule "RandomFields"]
 	path = RandomFields
@@ -64,14 +37,15 @@
 	path = Require
 	url = https://github.com/PredictiveEcology/Require
 	branch = development
-[submodule "reproducible"]
-	path = reproducible
-	url = https://github.com/PredictiveEcology/reproducible
-	branch = development
 [submodule "SpaDES.addins"]
 	path = SpaDES.addins
 	url = https://github.com/PredictiveEcology/SpaDES.addins
 	branch = development
+[submodule "SpaDES.config"]
+	path = SpaDES.config
+	url = https://github.com/PredictiveEcology/SpaDES.config
+	branch = development
+	registered = false
 [submodule "SpaDES.core"]
 	path = SpaDES.core
 	url = https://github.com/PredictiveEcology/SpaDES.core
@@ -92,23 +66,22 @@
 	path = SpaDES.tools
 	url = https://github.com/PredictiveEcology/SpaDES.tools
 	branch = development
-[submodule "usefulFuns"]
-	path = usefulFuns
-	url = https://github.com/PredictiveEcology/usefulFuns
+[submodule "amc"]
+	path = amc
+	url = https://github.com/achubaty/amc
 	branch = development
-[submodule "visualTest"]
-	path = visualTest
-	url = https://github.com/MangoTheCat/visualTest
-[submodule "SpaDES.config"]
-	path = SpaDES.config
-	url = https://github.com/PredictiveEcology/SpaDES.config
-	branch = development
-	registered = false
 [submodule "biomod2"]
 	path = biomod2
 	url = https://github.com/CeresBarros/biomod2
 	branch = dev_currentCeres
 	registered = false
+[submodule "fastshp"]
+	path = fastshp
+	url = https://github.com/s-u/fastshp
+[submodule "fireSenseUtils"]
+	path = fireSenseUtils
+	url = https://github.com/PredictiveEcology/fireSenseUtils
+	branch = development
 [submodule "gdalUtils"]
 	path = gdalUtils
 	url = https://github.com/gearslaboratory/gdalUtils
@@ -117,6 +90,26 @@
 	path = googleID
 	url = https://github.com/MarkEdmondson1234/googleID
 	registered = false
+[submodule "map"]
+	path = map
+	url = https://github.com/PredictiveEcology/map
+	branch = development
+[submodule "pemisc"]
+	path = pemisc
+	url = https://github.com/PredictiveEcology/pemisc
+	branch = development
+[submodule "peutils"]
+	path = peutils
+	url = https://github.com/PredictiveEcology/peutils
+	branch = development
+[submodule "quickPlot"]
+	path = quickPlot
+	url = https://github.com/PredictiveEcology/quickPlot
+	branch = development
+[submodule "reproducible"]
+	path = reproducible
+	url = https://github.com/PredictiveEcology/reproducible
+	branch = development
 [submodule "terra"]
 	path = terra
 	url = https://github.com/rspatial/terra
@@ -126,3 +119,10 @@
 	path = tiler
 	url = https://github.com/ropensci/tiler
 	registered = false
+[submodule "usefulFuns"]
+	path = usefulFuns
+	url = https://github.com/PredictiveEcology/usefulFuns
+	branch = development
+[submodule "visualTest"]
+	path = visualTest
+	url = https://github.com/MangoTheCat/visualTest
