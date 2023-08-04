@@ -102,12 +102,6 @@
   {
     "package": "NLMR",
     "url": "https://github.com/ropensci/NLMR",
-    "via": ["map", "SpaDES.tools"],
-    "from": "map"
-  },
-  {
-    "package": "NLMR",
-    "url": "https://github.com/ropensci/NLMR",
     "via": ["usefulFuns", "LandR", "map", "SpaDES.tools"],
     "from": "usefulFuns"
   },
