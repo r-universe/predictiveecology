@@ -65,7 +65,7 @@
   },
   {
     "package": "NLMR",
-    "url": "https://github.com/achubaty/NLMR",
+    "url": "https://github.com/ropensci/NLMR",
     "via": ["SpaDES.experiment"],
     "from": "SpaDES.experiment"
   },
@@ -104,6 +104,18 @@
     "url": "https://github.com/ropensci/NLMR",
     "via": ["usefulFuns", "LandR", "map", "SpaDES.tools"],
     "from": "usefulFuns"
+  },
+  {
+    "package": "RandomFields",
+    "url": "https://github.com/cran/RandomFields",
+    "via": ["SpaDES.experiment"],
+    "from": "SpaDES.experiment"
+  },
+  {
+    "package": "RandomFieldsUtils",
+    "url": "https://github.com/cran/RandomFieldsUtils",
+    "via": ["SpaDES.experiment"],
+    "from": "SpaDES.experiment"
   },
   {
     "package": "Require",
