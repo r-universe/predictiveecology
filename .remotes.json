@@ -72,12 +72,6 @@
   {
     "package": "NLMR",
     "url": "https://github.com/ropensci/NLMR",
-    "via": ["SpaDES.project", "SpaDES.core"],
-    "from": "SpaDES.project"
-  },
-  {
-    "package": "NLMR",
-    "url": "https://github.com/ropensci/NLMR",
     "via": ["SpaDES.tools"],
     "from": "SpaDES.tools"
   },
