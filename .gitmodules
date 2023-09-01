@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "BioSIM"]
 	path = BioSIM
-	url = https://github.com/achubaty/BioSimClient_R
+	url = https://github.com/RNCan/BioSimClient_R
 [submodule "CBMutils"]
 	path = CBMutils
 	url = https://github.com/PredictiveEcology/CBMutils
@@ -37,6 +37,9 @@
 	path = Require
 	url = https://github.com/PredictiveEcology/Require
 	branch = development
+[submodule "SpaDES"]
+	path = SpaDES
+	url = https://github.com/PredictiveEcology/SpaDES
 [submodule "SpaDES.addins"]
 	path = SpaDES.addins
 	url = https://github.com/PredictiveEcology/SpaDES.addins
