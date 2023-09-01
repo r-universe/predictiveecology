@@ -40,6 +40,7 @@
 [submodule "SpaDES"]
 	path = SpaDES
 	url = https://github.com/PredictiveEcology/SpaDES
+	branch = development
 [submodule "SpaDES.addins"]
 	path = SpaDES.addins
 	url = https://github.com/PredictiveEcology/SpaDES.addins
