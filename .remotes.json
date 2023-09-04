@@ -48,18 +48,6 @@
   {
     "package": "NLMR",
     "url": "https://github.com/ropensci/NLMR",
-    "via": ["LandWebUtils", "LandR", "map", "SpaDES.tools"],
-    "from": "LandWebUtils"
-  },
-  {
-    "package": "NLMR",
-    "url": "https://github.com/ropensci/NLMR",
-    "via": ["LandWebUtils", "map", "SpaDES.tools"],
-    "from": "LandWebUtils"
-  },
-  {
-    "package": "NLMR",
-    "url": "https://github.com/ropensci/NLMR",
     "via": ["SpaDES.addins", "SpaDES.core"],
     "from": "SpaDES.addins"
   },
@@ -205,13 +193,6 @@
   {
     "package": "SpaDES.tools",
     "url": "https://github.com/PredictiveEcology/SpaDES.tools",
-    "via": ["LandWebUtils", "map"],
-    "branch": "development",
-    "from": "LandWebUtils"
-  },
-  {
-    "package": "SpaDES.tools",
-    "url": "https://github.com/PredictiveEcology/SpaDES.tools",
     "via": ["NetLogoR"],
     "branch": "development",
     "from": "NetLogoR"
@@ -276,27 +257,6 @@
     "package": "amc",
     "url": "https://github.com/achubaty/amc",
     "via": ["LandWebUtils", "LandR", "map", "pemisc"],
-    "branch": "development",
-    "from": "LandWebUtils"
-  },
-  {
-    "package": "amc",
-    "url": "https://github.com/achubaty/amc",
-    "via": ["LandWebUtils", "LandR", "pemisc"],
-    "branch": "development",
-    "from": "LandWebUtils"
-  },
-  {
-    "package": "amc",
-    "url": "https://github.com/achubaty/amc",
-    "via": ["LandWebUtils", "map", "pemisc"],
-    "branch": "development",
-    "from": "LandWebUtils"
-  },
-  {
-    "package": "amc",
-    "url": "https://github.com/achubaty/amc",
-    "via": ["LandWebUtils", "pemisc"],
     "branch": "development",
     "from": "LandWebUtils"
   },
@@ -390,12 +350,6 @@
   {
     "package": "gdalUtils",
     "url": "https://github.com/gearslaboratory/gdalUtils",
-    "via": ["LandWebUtils", "map"],
-    "from": "LandWebUtils"
-  },
-  {
-    "package": "gdalUtils",
-    "url": "https://github.com/gearslaboratory/gdalUtils",
     "via": ["fireSenseUtils", "LandR", "map"],
     "from": "fireSenseUtils"
   },
@@ -441,13 +395,6 @@
   {
     "package": "map",
     "url": "https://github.com/PredictiveEcology/map",
-    "via": ["LandWebUtils"],
-    "branch": "development",
-    "from": "LandWebUtils"
-  },
-  {
-    "package": "map",
-    "url": "https://github.com/PredictiveEcology/map",
     "via": ["fireSenseUtils", "LandR"],
     "branch": "development",
     "from": "fireSenseUtils"
@@ -477,27 +424,6 @@
     "package": "pemisc",
     "url": "https://github.com/PredictiveEcology/pemisc",
     "via": ["LandWebUtils", "LandR", "map"],
-    "branch": "development",
-    "from": "LandWebUtils"
-  },
-  {
-    "package": "pemisc",
-    "url": "https://github.com/PredictiveEcology/pemisc",
-    "via": ["LandWebUtils", "LandR"],
-    "branch": "development",
-    "from": "LandWebUtils"
-  },
-  {
-    "package": "pemisc",
-    "url": "https://github.com/PredictiveEcology/pemisc",
-    "via": ["LandWebUtils", "map"],
-    "branch": "development",
-    "from": "LandWebUtils"
-  },
-  {
-    "package": "pemisc",
-    "url": "https://github.com/PredictiveEcology/pemisc",
-    "via": ["LandWebUtils"],
     "branch": "development",
     "from": "LandWebUtils"
   },
@@ -561,27 +487,6 @@
     "package": "peutils",
     "url": "https://github.com/PredictiveEcology/peutils",
     "via": ["LandWebUtils", "LandR", "map", "pemisc"],
-    "branch": "development",
-    "from": "LandWebUtils"
-  },
-  {
-    "package": "peutils",
-    "url": "https://github.com/PredictiveEcology/peutils",
-    "via": ["LandWebUtils", "LandR", "pemisc"],
-    "branch": "development",
-    "from": "LandWebUtils"
-  },
-  {
-    "package": "peutils",
-    "url": "https://github.com/PredictiveEcology/peutils",
-    "via": ["LandWebUtils", "map", "pemisc"],
-    "branch": "development",
-    "from": "LandWebUtils"
-  },
-  {
-    "package": "peutils",
-    "url": "https://github.com/PredictiveEcology/peutils",
-    "via": ["LandWebUtils", "pemisc"],
     "branch": "development",
     "from": "LandWebUtils"
   },
@@ -748,12 +653,6 @@
     "package": "tiler",
     "url": "https://github.com/ropensci/tiler",
     "via": ["LandWebUtils", "LandR", "map"],
-    "from": "LandWebUtils"
-  },
-  {
-    "package": "tiler",
-    "url": "https://github.com/ropensci/tiler",
-    "via": ["LandWebUtils", "map"],
     "from": "LandWebUtils"
   },
   {
