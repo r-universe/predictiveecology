@@ -37,6 +37,9 @@
 	path = Require
 	url = https://github.com/PredictiveEcology/Require
 	branch = development
+[submodule "SDMTools"]
+	path = SDMTools
+	url = https://github.com/cran/SDMTools
 [submodule "SpaDES"]
 	path = SpaDES
 	url = https://github.com/PredictiveEcology/SpaDES
