@@ -114,6 +114,12 @@
     "from": "fireSenseUtils"
   },
   {
+    "package": "SDMTools",
+    "url": "https://github.com/cran/SDMTools",
+    "via": ["LandWebUtils"],
+    "from": "LandWebUtils"
+  },
+  {
     "package": "SpaDES.addins",
     "url": "https://github.com/PredictiveEcology/SpaDES.addins",
     "via": ["SpaDES"],
