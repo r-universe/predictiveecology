@@ -625,6 +625,13 @@
   {
     "package": "reproducible",
     "url": "https://github.com/PredictiveEcology/reproducible",
+    "via": ["SpaDES.tools"],
+    "branch": "development",
+    "from": "SpaDES.tools"
+  },
+  {
+    "package": "reproducible",
+    "url": "https://github.com/PredictiveEcology/reproducible",
     "via": ["fireSenseUtils"],
     "branch": "development",
     "from": "fireSenseUtils"
