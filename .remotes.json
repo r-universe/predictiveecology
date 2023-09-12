@@ -20,13 +20,6 @@
   {
     "package": "LandR",
     "url": "https://github.com/PredictiveEcology/LandR",
-    "via": ["CBMutils"],
-    "branch": "development",
-    "from": "CBMutils"
-  },
-  {
-    "package": "LandR",
-    "url": "https://github.com/PredictiveEcology/LandR",
     "via": ["LandWebUtils"],
     "branch": "LandWeb",
     "from": "LandWebUtils"
@@ -171,13 +164,6 @@
   {
     "package": "SpaDES.tools",
     "url": "https://github.com/PredictiveEcology/SpaDES.tools",
-    "via": ["CBMutils", "LandR", "map"],
-    "branch": "development",
-    "from": "CBMutils"
-  },
-  {
-    "package": "SpaDES.tools",
-    "url": "https://github.com/PredictiveEcology/SpaDES.tools",
     "via": ["LandR", "map"],
     "branch": "development",
     "from": "LandR"
@@ -237,13 +223,6 @@
     "via": ["usefulFuns", "LandR", "map"],
     "branch": "development",
     "from": "usefulFuns"
-  },
-  {
-    "package": "amc",
-    "url": "https://github.com/achubaty/amc",
-    "via": ["CBMutils", "LandR", "map", "pemisc"],
-    "branch": "development",
-    "from": "CBMutils"
   },
   {
     "package": "amc",
@@ -331,12 +310,6 @@
   {
     "package": "gdalUtils",
     "url": "https://github.com/gearslaboratory/gdalUtils",
-    "via": ["CBMutils", "LandR", "map"],
-    "from": "CBMutils"
-  },
-  {
-    "package": "gdalUtils",
-    "url": "https://github.com/gearslaboratory/gdalUtils",
     "via": ["LandR", "map"],
     "from": "LandR"
   },
@@ -373,13 +346,6 @@
   {
     "package": "map",
     "url": "https://github.com/PredictiveEcology/map",
-    "via": ["CBMutils", "LandR"],
-    "branch": "development",
-    "from": "CBMutils"
-  },
-  {
-    "package": "map",
-    "url": "https://github.com/PredictiveEcology/map",
     "via": ["LandR"],
     "branch": "development",
     "from": "LandR"
@@ -404,13 +370,6 @@
     "via": ["usefulFuns", "LandR"],
     "branch": "development",
     "from": "usefulFuns"
-  },
-  {
-    "package": "pemisc",
-    "url": "https://github.com/PredictiveEcology/pemisc",
-    "via": ["CBMutils", "LandR", "map"],
-    "branch": "development",
-    "from": "CBMutils"
   },
   {
     "package": "pemisc",
@@ -467,13 +426,6 @@
     "via": ["usefulFuns", "LandR"],
     "branch": "development",
     "from": "usefulFuns"
-  },
-  {
-    "package": "peutils",
-    "url": "https://github.com/PredictiveEcology/peutils",
-    "via": ["CBMutils", "LandR", "map", "pemisc"],
-    "branch": "development",
-    "from": "CBMutils"
   },
   {
     "package": "peutils",
@@ -642,12 +594,6 @@
     "via": ["usefulFuns"],
     "branch": "development",
     "from": "usefulFuns"
-  },
-  {
-    "package": "tiler",
-    "url": "https://github.com/ropensci/tiler",
-    "via": ["CBMutils", "LandR", "map"],
-    "from": "CBMutils"
   },
   {
     "package": "tiler",
