@@ -136,13 +136,6 @@
   {
     "package": "SpaDES.core",
     "url": "https://github.com/PredictiveEcology/SpaDES.core",
-    "via": ["CBMutils"],
-    "branch": "development",
-    "from": "CBMutils"
-  },
-  {
-    "package": "SpaDES.core",
-    "url": "https://github.com/PredictiveEcology/SpaDES.core",
     "via": ["SpaDES", "SpaDES.addins"],
     "branch": "development",
     "from": "SpaDES"
