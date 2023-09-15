@@ -95,7 +95,7 @@
   {
     "package": "Require",
     "url": "https://github.com/PredictiveEcology/Require",
-    "via": ["SpaDES.project"],
+    "via": ["SpaDES.project", "SpaDES.config"],
     "branch": "development",
     "from": "SpaDES.project"
   },
@@ -151,7 +151,7 @@
     "package": "SpaDES.core",
     "url": "https://github.com/PredictiveEcology/SpaDES.core",
     "via": ["SpaDES.project"],
-    "branch": "development",
+    "branch": "useCache2",
     "from": "SpaDES.project"
   },
   {
@@ -559,13 +559,6 @@
     "via": ["SpaDES.experiment"],
     "branch": "development",
     "from": "SpaDES.experiment"
-  },
-  {
-    "package": "reproducible",
-    "url": "https://github.com/PredictiveEcology/reproducible",
-    "via": ["SpaDES.project"],
-    "branch": "development",
-    "from": "SpaDES.project"
   },
   {
     "package": "reproducible",
