@@ -120,6 +120,7 @@
 [submodule "scfmutils"]
 	path = scfmutils
 	url = https://github.com/PredictiveEcology/scfmutils
+	branch = development
 [submodule "tiler"]
 	path = tiler
 	url = https://github.com/ropensci/tiler
