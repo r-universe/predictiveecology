@@ -35,7 +35,7 @@
     "package": "LandR",
     "url": "https://github.com/PredictiveEcology/LandR",
     "via": ["scfmutils"],
-    "branch": "terra-migration",
+    "branch": "development",
     "from": "scfmutils"
   },
   {
