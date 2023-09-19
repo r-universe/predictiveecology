@@ -27,6 +27,13 @@
   {
     "package": "LandR",
     "url": "https://github.com/PredictiveEcology/LandR",
+    "via": ["SpaDES.project", "SpaDES.config", "fireSenseUtils"],
+    "branch": "development",
+    "from": "SpaDES.project"
+  },
+  {
+    "package": "LandR",
+    "url": "https://github.com/PredictiveEcology/LandR",
     "via": ["fireSenseUtils"],
     "branch": "development",
     "from": "fireSenseUtils"
@@ -102,7 +109,7 @@
   {
     "package": "Require",
     "url": "https://github.com/PredictiveEcology/Require",
-    "via": ["SpaDES.project", "SpaDES.config"],
+    "via": ["SpaDES.project", "SpaDES.config", "fireSenseUtils"],
     "branch": "development",
     "from": "SpaDES.project"
   },
@@ -157,8 +164,8 @@
   {
     "package": "SpaDES.core",
     "url": "https://github.com/PredictiveEcology/SpaDES.core",
-    "via": ["SpaDES.project"],
-    "branch": "useCache2",
+    "via": ["SpaDES.project", "SpaDES.config", "scfmutils"],
+    "branch": "development",
     "from": "SpaDES.project"
   },
   {
@@ -213,6 +220,13 @@
   {
     "package": "SpaDES.tools",
     "url": "https://github.com/PredictiveEcology/SpaDES.tools",
+    "via": ["SpaDES.project", "SpaDES.config", "fireSenseUtils", "LandR", "map"],
+    "branch": "development",
+    "from": "SpaDES.project"
+  },
+  {
+    "package": "SpaDES.tools",
+    "url": "https://github.com/PredictiveEcology/SpaDES.tools",
     "via": ["fireSenseUtils", "LandR", "map"],
     "branch": "development",
     "from": "fireSenseUtils"
@@ -258,6 +272,13 @@
     "via": ["LandWebUtils", "LandR", "map", "pemisc"],
     "branch": "development",
     "from": "LandWebUtils"
+  },
+  {
+    "package": "amc",
+    "url": "https://github.com/achubaty/amc",
+    "via": ["SpaDES.project", "SpaDES.config", "fireSenseUtils", "pemisc"],
+    "branch": "development",
+    "from": "SpaDES.project"
   },
   {
     "package": "amc",
@@ -336,6 +357,13 @@
     "from": "fireSenseUtils"
   },
   {
+    "package": "fireSenseUtils",
+    "url": "https://github.com/PredictiveEcology/fireSenseUtils",
+    "via": ["SpaDES.project", "SpaDES.config"],
+    "branch": "development",
+    "from": "SpaDES.project"
+  },
+  {
     "package": "gdalUtils",
     "url": "https://github.com/gearslaboratory/gdalUtils",
     "via": ["LandR", "map"],
@@ -346,6 +374,12 @@
     "url": "https://github.com/gearslaboratory/gdalUtils",
     "via": ["LandWebUtils", "LandR", "map"],
     "from": "LandWebUtils"
+  },
+  {
+    "package": "gdalUtils",
+    "url": "https://github.com/gearslaboratory/gdalUtils",
+    "via": ["SpaDES.project", "SpaDES.config", "fireSenseUtils", "LandR", "map"],
+    "from": "SpaDES.project"
   },
   {
     "package": "gdalUtils",
@@ -378,6 +412,12 @@
     "from": "SpaDES.shiny"
   },
   {
+    "package": "lintr",
+    "url": "https://github.com/jimhester/lintr",
+    "via": ["SpaDES.project", "SpaDES.config", "fireSenseUtils", "usefulFuns"],
+    "from": "SpaDES.project"
+  },
+  {
     "package": "map",
     "url": "https://github.com/PredictiveEcology/map",
     "via": ["LandR"],
@@ -390,6 +430,13 @@
     "via": ["LandWebUtils", "LandR"],
     "branch": "development",
     "from": "LandWebUtils"
+  },
+  {
+    "package": "map",
+    "url": "https://github.com/PredictiveEcology/map",
+    "via": ["SpaDES.project", "SpaDES.config", "fireSenseUtils", "LandR"],
+    "branch": "development",
+    "from": "SpaDES.project"
   },
   {
     "package": "map",
@@ -425,6 +472,13 @@
     "via": ["LandWebUtils", "LandR", "map"],
     "branch": "development",
     "from": "LandWebUtils"
+  },
+  {
+    "package": "pemisc",
+    "url": "https://github.com/PredictiveEcology/pemisc",
+    "via": ["SpaDES.project", "SpaDES.config", "fireSenseUtils"],
+    "branch": "development",
+    "from": "SpaDES.project"
   },
   {
     "package": "pemisc",
@@ -488,6 +542,13 @@
     "via": ["LandWebUtils", "LandR", "map", "pemisc"],
     "branch": "development",
     "from": "LandWebUtils"
+  },
+  {
+    "package": "peutils",
+    "url": "https://github.com/PredictiveEcology/peutils",
+    "via": ["SpaDES.project", "SpaDES.config", "fireSenseUtils", "pemisc"],
+    "branch": "development",
+    "from": "SpaDES.project"
   },
   {
     "package": "peutils",
@@ -576,6 +637,13 @@
   {
     "package": "quickPlot",
     "url": "https://github.com/PredictiveEcology/quickPlot",
+    "via": ["SpaDES.project", "SpaDES.config", "fireSenseUtils"],
+    "branch": "development",
+    "from": "SpaDES.project"
+  },
+  {
+    "package": "quickPlot",
+    "url": "https://github.com/PredictiveEcology/quickPlot",
     "via": ["fireSenseUtils"],
     "branch": "development",
     "from": "fireSenseUtils"
@@ -618,6 +686,13 @@
   {
     "package": "reproducible",
     "url": "https://github.com/PredictiveEcology/reproducible",
+    "via": ["SpaDES.project", "SpaDES.config", "fireSenseUtils"],
+    "branch": "development",
+    "from": "SpaDES.project"
+  },
+  {
+    "package": "reproducible",
+    "url": "https://github.com/PredictiveEcology/reproducible",
     "via": ["SpaDES.tools"],
     "branch": "development",
     "from": "SpaDES.tools"
@@ -651,6 +726,18 @@
     "from": "usefulFuns"
   },
   {
+    "package": "scfmutils",
+    "url": "https://github.com/PredictiveEcology/scfmutils",
+    "via": ["SpaDES.project", "SpaDES.config"],
+    "from": "SpaDES.project"
+  },
+  {
+    "package": "stringfish",
+    "url": "https://github.com/traversc/stringfish",
+    "via": ["SpaDES.project", "SpaDES.config", "fireSenseUtils"],
+    "from": "SpaDES.project"
+  },
+  {
     "package": "tiler",
     "url": "https://github.com/ropensci/tiler",
     "via": ["LandR", "map"],
@@ -661,6 +748,12 @@
     "url": "https://github.com/ropensci/tiler",
     "via": ["LandWebUtils", "LandR", "map"],
     "from": "LandWebUtils"
+  },
+  {
+    "package": "tiler",
+    "url": "https://github.com/ropensci/tiler",
+    "via": ["SpaDES.project", "SpaDES.config", "fireSenseUtils", "LandR", "map"],
+    "from": "SpaDES.project"
   },
   {
     "package": "tiler",
@@ -685,6 +778,13 @@
     "url": "https://github.com/ropensci/tiler",
     "via": ["usefulFuns", "LandR", "map"],
     "from": "usefulFuns"
+  },
+  {
+    "package": "usefulFuns",
+    "url": "https://github.com/PredictiveEcology/usefulFuns",
+    "via": ["SpaDES.project", "SpaDES.config", "fireSenseUtils"],
+    "branch": "development",
+    "from": "SpaDES.project"
   },
   {
     "package": "visualTest",

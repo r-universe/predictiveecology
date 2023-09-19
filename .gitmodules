@@ -97,6 +97,10 @@
 	path = googleID
 	url = https://github.com/MarkEdmondson1234/googleID
 	registered = false
+[submodule "lintr"]
+	path = lintr
+	url = https://github.com/jimhester/lintr
+	registered = false
 [submodule "map"]
 	path = map
 	url = https://github.com/PredictiveEcology/map
@@ -121,6 +125,10 @@
 	path = scfmutils
 	url = https://github.com/PredictiveEcology/scfmutils
 	branch = development
+[submodule "stringfish"]
+	path = stringfish
+	url = https://github.com/traversc/stringfish
+	registered = false
 [submodule "tiler"]
 	path = tiler
 	url = https://github.com/ropensci/tiler
