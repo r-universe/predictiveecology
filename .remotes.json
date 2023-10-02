@@ -73,24 +73,6 @@
   {
     "package": "NLMR",
     "url": "https://github.com/ropensci/NLMR",
-    "via": ["fireSenseUtils", "LandR", "map", "SpaDES.tools"],
-    "from": "fireSenseUtils"
-  },
-  {
-    "package": "NLMR",
-    "url": "https://github.com/ropensci/NLMR",
-    "via": ["fireSenseUtils", "SpaDES.core"],
-    "from": "fireSenseUtils"
-  },
-  {
-    "package": "NLMR",
-    "url": "https://github.com/ropensci/NLMR",
-    "via": ["fireSenseUtils", "SpaDES.tools"],
-    "from": "fireSenseUtils"
-  },
-  {
-    "package": "NLMR",
-    "url": "https://github.com/ropensci/NLMR",
     "via": ["usefulFuns", "LandR", "map", "SpaDES.tools"],
     "from": "usefulFuns"
   },
@@ -234,13 +216,6 @@
   {
     "package": "SpaDES.tools",
     "url": "https://github.com/PredictiveEcology/SpaDES.tools",
-    "via": ["fireSenseUtils"],
-    "branch": "development",
-    "from": "fireSenseUtils"
-  },
-  {
-    "package": "SpaDES.tools",
-    "url": "https://github.com/PredictiveEcology/SpaDES.tools",
     "via": ["map"],
     "branch": "development",
     "from": "map"
@@ -284,20 +259,6 @@
     "package": "amc",
     "url": "https://github.com/achubaty/amc",
     "via": ["fireSenseUtils", "LandR", "map", "pemisc"],
-    "branch": "development",
-    "from": "fireSenseUtils"
-  },
-  {
-    "package": "amc",
-    "url": "https://github.com/achubaty/amc",
-    "via": ["fireSenseUtils", "LandR", "pemisc"],
-    "branch": "development",
-    "from": "fireSenseUtils"
-  },
-  {
-    "package": "amc",
-    "url": "https://github.com/achubaty/amc",
-    "via": ["fireSenseUtils", "pemisc"],
     "branch": "development",
     "from": "fireSenseUtils"
   },
@@ -349,12 +310,6 @@
     "via": ["LandR"],
     "branch": "dev_currentCeres",
     "from": "LandR"
-  },
-  {
-    "package": "fastshp",
-    "url": "https://github.com/s-u/fastshp",
-    "via": ["fireSenseUtils", "quickPlot"],
-    "from": "fireSenseUtils"
   },
   {
     "package": "fireSenseUtils",
@@ -490,20 +445,6 @@
   {
     "package": "pemisc",
     "url": "https://github.com/PredictiveEcology/pemisc",
-    "via": ["fireSenseUtils", "LandR"],
-    "branch": "development",
-    "from": "fireSenseUtils"
-  },
-  {
-    "package": "pemisc",
-    "url": "https://github.com/PredictiveEcology/pemisc",
-    "via": ["fireSenseUtils"],
-    "branch": "development",
-    "from": "fireSenseUtils"
-  },
-  {
-    "package": "pemisc",
-    "url": "https://github.com/PredictiveEcology/pemisc",
     "via": ["map"],
     "branch": "development",
     "from": "map"
@@ -554,20 +495,6 @@
     "package": "peutils",
     "url": "https://github.com/PredictiveEcology/peutils",
     "via": ["fireSenseUtils", "LandR", "map", "pemisc"],
-    "branch": "development",
-    "from": "fireSenseUtils"
-  },
-  {
-    "package": "peutils",
-    "url": "https://github.com/PredictiveEcology/peutils",
-    "via": ["fireSenseUtils", "LandR", "pemisc"],
-    "branch": "development",
-    "from": "fireSenseUtils"
-  },
-  {
-    "package": "peutils",
-    "url": "https://github.com/PredictiveEcology/peutils",
-    "via": ["fireSenseUtils", "pemisc"],
     "branch": "development",
     "from": "fireSenseUtils"
   },
@@ -785,11 +712,5 @@
     "via": ["SpaDES.project", "SpaDES.config", "fireSenseUtils"],
     "branch": "development",
     "from": "SpaDES.project"
-  },
-  {
-    "package": "visualTest",
-    "url": "https://github.com/MangoTheCat/visualTest",
-    "via": ["fireSenseUtils", "quickPlot"],
-    "from": "fireSenseUtils"
   }
 ]
