@@ -125,6 +125,13 @@
   {
     "package": "SpaDES.core",
     "url": "https://github.com/PredictiveEcology/SpaDES.core",
+    "via": ["LandR"],
+    "branch": "development",
+    "from": "LandR"
+  },
+  {
+    "package": "SpaDES.core",
+    "url": "https://github.com/PredictiveEcology/SpaDES.core",
     "via": ["SpaDES", "SpaDES.addins"],
     "branch": "development",
     "from": "SpaDES"
