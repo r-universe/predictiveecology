@@ -35,7 +35,7 @@
     "package": "LandR",
     "url": "https://github.com/PredictiveEcology/LandR",
     "via": ["fireSenseUtils"],
-    "branch": "terra-migration",
+    "branch": "development",
     "from": "fireSenseUtils"
   },
   {
