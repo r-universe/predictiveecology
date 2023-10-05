@@ -666,6 +666,12 @@
     "from": "SpaDES.project"
   },
   {
+    "package": "spatialEco",
+    "url": "https://github.com/jeffreyevans/spatialEco",
+    "via": ["fireSenseUtils"],
+    "from": "fireSenseUtils"
+  },
+  {
     "package": "stringfish",
     "url": "https://github.com/traversc/stringfish",
     "via": ["SpaDES.project", "SpaDES.config", "fireSenseUtils"],
