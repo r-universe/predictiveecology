@@ -673,10 +673,22 @@
     "from": "LandWebUtils"
   },
   {
+    "package": "rgdal",
+    "url": "https://github.com/cran/rgdal",
+    "via": ["map"],
+    "from": "map"
+  },
+  {
     "package": "rgeos",
     "url": "https://github.com/cran/rgeos",
     "via": ["LandWebUtils", "LandR", "map"],
     "from": "LandWebUtils"
+  },
+  {
+    "package": "rgeos",
+    "url": "https://github.com/cran/rgeos",
+    "via": ["map"],
+    "from": "map"
   },
   {
     "package": "scfmutils",
