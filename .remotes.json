@@ -667,6 +667,18 @@
     "from": "usefulFuns"
   },
   {
+    "package": "rgdal",
+    "url": "https://github.com/cran/rgdal",
+    "via": ["LandWebUtils", "LandR", "map"],
+    "from": "LandWebUtils"
+  },
+  {
+    "package": "rgeos",
+    "url": "https://github.com/cran/rgeos",
+    "via": ["LandWebUtils", "LandR", "map"],
+    "from": "LandWebUtils"
+  },
+  {
     "package": "scfmutils",
     "url": "https://github.com/PredictiveEcology/scfmutils",
     "via": ["SpaDES.project", "SpaDES.config"],
