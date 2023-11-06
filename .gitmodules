@@ -121,6 +121,9 @@
 	path = reproducible
 	url = https://github.com/PredictiveEcology/reproducible
 	branch = development
+[submodule "rgeos"]
+	path = rgeos
+	url = https://github.com/cran/rgeos
 [submodule "scfmutils"]
 	path = scfmutils
 	url = https://github.com/PredictiveEcology/scfmutils
