@@ -124,7 +124,6 @@
 [submodule "rgdal"]
 	path = rgdal
 	url = https://github.com/cran/rgdal
-	registered = false
 [submodule "rgeos"]
 	path = rgeos
 	url = https://github.com/cran/rgeos
