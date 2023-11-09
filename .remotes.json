@@ -132,6 +132,12 @@
   {
     "package": "SpaDES.core",
     "url": "https://github.com/PredictiveEcology/SpaDES.core",
+    "via": ["NetLogoR"],
+    "from": "NetLogoR"
+  },
+  {
+    "package": "SpaDES.core",
+    "url": "https://github.com/PredictiveEcology/SpaDES.core",
     "via": ["SpaDES", "SpaDES.addins"],
     "branch": "development",
     "from": "SpaDES"
@@ -189,7 +195,6 @@
     "package": "SpaDES.tools",
     "url": "https://github.com/PredictiveEcology/SpaDES.tools",
     "via": ["NetLogoR"],
-    "branch": "development",
     "from": "NetLogoR"
   },
   {
