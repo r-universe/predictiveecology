@@ -132,12 +132,6 @@
   {
     "package": "SpaDES.core",
     "url": "https://github.com/PredictiveEcology/SpaDES.core",
-    "via": ["NetLogoR"],
-    "from": "NetLogoR"
-  },
-  {
-    "package": "SpaDES.core",
-    "url": "https://github.com/PredictiveEcology/SpaDES.core",
     "via": ["SpaDES", "SpaDES.addins"],
     "branch": "development",
     "from": "SpaDES"
@@ -190,12 +184,6 @@
     "via": ["LandWebUtils", "LandR", "map"],
     "branch": "development",
     "from": "LandWebUtils"
-  },
-  {
-    "package": "SpaDES.tools",
-    "url": "https://github.com/PredictiveEcology/SpaDES.tools",
-    "via": ["NetLogoR"],
-    "from": "NetLogoR"
   },
   {
     "package": "SpaDES.tools",
