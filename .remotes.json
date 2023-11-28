@@ -662,6 +662,12 @@
   {
     "package": "rgdal",
     "url": "https://github.com/cran/rgdal",
+    "via": ["LandR", "map"],
+    "from": "LandR"
+  },
+  {
+    "package": "rgdal",
+    "url": "https://github.com/cran/rgdal",
     "via": ["LandWebUtils", "LandR", "map"],
     "from": "LandWebUtils"
   },
@@ -670,6 +676,12 @@
     "url": "https://github.com/cran/rgdal",
     "via": ["map"],
     "from": "map"
+  },
+  {
+    "package": "rgeos",
+    "url": "https://github.com/cran/rgeos",
+    "via": ["LandR", "map"],
+    "from": "LandR"
   },
   {
     "package": "rgeos",
