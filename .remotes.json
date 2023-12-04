@@ -674,6 +674,12 @@
   {
     "package": "rgdal",
     "url": "https://github.com/cran/rgdal",
+    "via": ["fireSenseUtils", "LandR", "map"],
+    "from": "fireSenseUtils"
+  },
+  {
+    "package": "rgdal",
+    "url": "https://github.com/cran/rgdal",
     "via": ["map"],
     "from": "map"
   },
@@ -688,6 +694,12 @@
     "url": "https://github.com/cran/rgeos",
     "via": ["LandWebUtils", "LandR", "map"],
     "from": "LandWebUtils"
+  },
+  {
+    "package": "rgeos",
+    "url": "https://github.com/cran/rgeos",
+    "via": ["fireSenseUtils", "LandR", "map"],
+    "from": "fireSenseUtils"
   },
   {
     "package": "rgeos",
