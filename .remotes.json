@@ -569,13 +569,6 @@
     "from": "SpaDES.project"
   },
   {
-    "package": "quickPlot",
-    "url": "https://github.com/PredictiveEcology/quickPlot",
-    "via": ["fireSenseUtils"],
-    "branch": "development",
-    "from": "fireSenseUtils"
-  },
-  {
     "package": "reproducible",
     "url": "https://github.com/PredictiveEcology/reproducible",
     "via": ["CBMutils"],
