@@ -667,6 +667,12 @@
   {
     "package": "rgdal",
     "url": "https://github.com/cran/rgdal",
+    "via": ["SpaDES.project", "SpaDES.config", "fireSenseUtils", "LandR", "map"],
+    "from": "SpaDES.project"
+  },
+  {
+    "package": "rgdal",
+    "url": "https://github.com/cran/rgdal",
     "via": ["fireSenseUtils", "LandR", "map"],
     "from": "fireSenseUtils"
   },
@@ -687,6 +693,12 @@
     "url": "https://github.com/cran/rgeos",
     "via": ["LandWebUtils", "LandR", "map"],
     "from": "LandWebUtils"
+  },
+  {
+    "package": "rgeos",
+    "url": "https://github.com/cran/rgeos",
+    "via": ["SpaDES.project", "SpaDES.config", "fireSenseUtils", "LandR", "map"],
+    "from": "SpaDES.project"
   },
   {
     "package": "rgeos",
