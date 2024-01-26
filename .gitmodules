@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/predictiveecology/universe
+	url = https://github.com/predictiveecology/predictiveecology.r-universe.dev
 	branch = HEAD
 [submodule "BioSIM"]
 	path = BioSIM
