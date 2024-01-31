@@ -65,12 +65,6 @@
     "from": "SpaDES.tools"
   },
   {
-    "package": "NLMR",
-    "url": "https://github.com/ropensci/NLMR",
-    "via": ["usefulFuns", "LandR", "map", "SpaDES.tools"],
-    "from": "usefulFuns"
-  },
-  {
     "package": "RandomFields",
     "url": "https://github.com/cran/RandomFields",
     "via": ["SpaDES.experiment"],
@@ -285,20 +279,6 @@
     "from": "usefulFuns"
   },
   {
-    "package": "amc",
-    "url": "https://github.com/achubaty/amc",
-    "via": ["usefulFuns", "LandR", "map", "pemisc"],
-    "branch": "development",
-    "from": "usefulFuns"
-  },
-  {
-    "package": "amc",
-    "url": "https://github.com/achubaty/amc",
-    "via": ["usefulFuns", "LandR", "pemisc"],
-    "branch": "development",
-    "from": "usefulFuns"
-  },
-  {
     "package": "biomod2",
     "url": "https://github.com/CeresBarros/biomod2",
     "via": ["LandR"],
@@ -458,13 +438,6 @@
     "from": "usefulFuns"
   },
   {
-    "package": "pemisc",
-    "url": "https://github.com/PredictiveEcology/pemisc",
-    "via": ["usefulFuns", "LandR"],
-    "branch": "development",
-    "from": "usefulFuns"
-  },
-  {
     "package": "peutils",
     "url": "https://github.com/PredictiveEcology/peutils",
     "via": ["LandR", "map", "pemisc"],
@@ -517,13 +490,6 @@
     "package": "peutils",
     "url": "https://github.com/PredictiveEcology/peutils",
     "via": ["usefulFuns", "LandR", "map", "pemisc"],
-    "branch": "development",
-    "from": "usefulFuns"
-  },
-  {
-    "package": "peutils",
-    "url": "https://github.com/PredictiveEcology/peutils",
-    "via": ["usefulFuns", "LandR", "pemisc"],
     "branch": "development",
     "from": "usefulFuns"
   },
@@ -683,6 +649,12 @@
     "from": "scfmutils"
   },
   {
+    "package": "rgdal",
+    "url": "https://github.com/cran/rgdal",
+    "via": ["usefulFuns", "LandR", "map"],
+    "from": "usefulFuns"
+  },
+  {
     "package": "rgeos",
     "url": "https://github.com/cran/rgeos",
     "via": ["LandR", "map"],
@@ -717,6 +689,12 @@
     "url": "https://github.com/cran/rgeos",
     "via": ["scfmutils", "LandR", "map"],
     "from": "scfmutils"
+  },
+  {
+    "package": "rgeos",
+    "url": "https://github.com/cran/rgeos",
+    "via": ["usefulFuns", "LandR", "map"],
+    "from": "usefulFuns"
   },
   {
     "package": "scfmutils",
