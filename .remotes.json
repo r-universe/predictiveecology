@@ -683,6 +683,12 @@
     "from": "map"
   },
   {
+    "package": "rgdal",
+    "url": "https://github.com/cran/rgdal",
+    "via": ["scfmutils", "LandR", "map"],
+    "from": "scfmutils"
+  },
+  {
     "package": "rgeos",
     "url": "https://github.com/cran/rgeos",
     "via": ["LandR", "map"],
@@ -711,6 +717,12 @@
     "url": "https://github.com/cran/rgeos",
     "via": ["map"],
     "from": "map"
+  },
+  {
+    "package": "rgeos",
+    "url": "https://github.com/cran/rgeos",
+    "via": ["scfmutils", "LandR", "map"],
+    "from": "scfmutils"
   },
   {
     "package": "scfmutils",
