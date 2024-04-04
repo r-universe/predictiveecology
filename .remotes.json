@@ -41,13 +41,6 @@
   {
     "package": "LandR",
     "url": "https://github.com/PredictiveEcology/LandR",
-    "via": ["scfmutils"],
-    "branch": "development",
-    "from": "scfmutils"
-  },
-  {
-    "package": "LandR",
-    "url": "https://github.com/PredictiveEcology/LandR",
     "via": ["usefulFuns"],
     "branch": "development",
     "from": "usefulFuns"
@@ -211,7 +204,7 @@
   {
     "package": "SpaDES.tools",
     "url": "https://github.com/PredictiveEcology/SpaDES.tools",
-    "via": ["scfmutils", "LandR", "map"],
+    "via": ["scfmutils"],
     "branch": "development",
     "from": "scfmutils"
   },
@@ -267,13 +260,6 @@
   {
     "package": "amc",
     "url": "https://github.com/achubaty/amc",
-    "via": ["scfmutils", "LandR", "map", "pemisc"],
-    "branch": "development",
-    "from": "scfmutils"
-  },
-  {
-    "package": "amc",
-    "url": "https://github.com/achubaty/amc",
     "via": ["usefulFuns"],
     "branch": "development",
     "from": "usefulFuns"
@@ -325,12 +311,6 @@
   {
     "package": "gdalUtils",
     "url": "https://github.com/gearslaboratory/gdalUtils",
-    "via": ["scfmutils", "LandR", "map"],
-    "from": "scfmutils"
-  },
-  {
-    "package": "gdalUtils",
-    "url": "https://github.com/gearslaboratory/gdalUtils",
     "via": ["usefulFuns", "LandR", "map"],
     "from": "usefulFuns"
   },
@@ -377,13 +357,6 @@
   {
     "package": "map",
     "url": "https://github.com/PredictiveEcology/map",
-    "via": ["scfmutils", "LandR"],
-    "branch": "development",
-    "from": "scfmutils"
-  },
-  {
-    "package": "map",
-    "url": "https://github.com/PredictiveEcology/map",
     "via": ["usefulFuns", "LandR"],
     "branch": "development",
     "from": "usefulFuns"
@@ -422,13 +395,6 @@
     "via": ["map"],
     "branch": "development",
     "from": "map"
-  },
-  {
-    "package": "pemisc",
-    "url": "https://github.com/PredictiveEcology/pemisc",
-    "via": ["scfmutils", "LandR", "map"],
-    "branch": "development",
-    "from": "scfmutils"
   },
   {
     "package": "pemisc",
@@ -478,13 +444,6 @@
     "via": ["pemisc"],
     "branch": "development",
     "from": "pemisc"
-  },
-  {
-    "package": "peutils",
-    "url": "https://github.com/PredictiveEcology/peutils",
-    "via": ["scfmutils", "LandR", "map", "pemisc"],
-    "branch": "development",
-    "from": "scfmutils"
   },
   {
     "package": "peutils",
@@ -645,12 +604,6 @@
   {
     "package": "rgdal",
     "url": "https://github.com/cran/rgdal",
-    "via": ["scfmutils", "LandR", "map"],
-    "from": "scfmutils"
-  },
-  {
-    "package": "rgdal",
-    "url": "https://github.com/cran/rgdal",
     "via": ["usefulFuns", "LandR", "map"],
     "from": "usefulFuns"
   },
@@ -683,12 +636,6 @@
     "url": "https://github.com/cran/rgeos",
     "via": ["map"],
     "from": "map"
-  },
-  {
-    "package": "rgeos",
-    "url": "https://github.com/cran/rgeos",
-    "via": ["scfmutils", "LandR", "map"],
-    "from": "scfmutils"
   },
   {
     "package": "rgeos",
@@ -743,12 +690,6 @@
     "url": "https://github.com/ropensci/tiler",
     "via": ["map"],
     "from": "map"
-  },
-  {
-    "package": "tiler",
-    "url": "https://github.com/ropensci/tiler",
-    "via": ["scfmutils", "LandR", "map"],
-    "from": "scfmutils"
   },
   {
     "package": "tiler",
