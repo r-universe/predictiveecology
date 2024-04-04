@@ -90,13 +90,6 @@
     "from": "LandWebUtils"
   },
   {
-    "package": "SpaDES.addins",
-    "url": "https://github.com/PredictiveEcology/SpaDES.addins",
-    "via": ["SpaDES"],
-    "branch": "development",
-    "from": "SpaDES"
-  },
-  {
     "package": "SpaDES.config",
     "url": "https://github.com/PredictiveEcology/SpaDES.config",
     "via": ["SpaDES.project"],
@@ -113,7 +106,7 @@
   {
     "package": "SpaDES.core",
     "url": "https://github.com/PredictiveEcology/SpaDES.core",
-    "via": ["SpaDES", "SpaDES.addins"],
+    "via": ["SpaDES"],
     "branch": "development",
     "from": "SpaDES"
   },
