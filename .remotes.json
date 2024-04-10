@@ -48,6 +48,12 @@
   {
     "package": "NLMR",
     "url": "https://github.com/ropensci/NLMR",
+    "via": ["SpaDES.core"],
+    "from": "SpaDES.core"
+  },
+  {
+    "package": "NLMR",
+    "url": "https://github.com/ropensci/NLMR",
     "via": ["SpaDES.experiment"],
     "from": "SpaDES.experiment"
   },
