@@ -131,10 +131,6 @@
 	path = scfmutils
 	url = https://github.com/PredictiveEcology/scfmutils
 	branch = development
-[submodule "spatialEco"]
-	path = spatialEco
-	url = https://github.com/jeffreyevans/spatialEco
-	registered = false
 [submodule "stringfish"]
 	path = stringfish
 	url = https://github.com/traversc/stringfish
