@@ -95,7 +95,7 @@
 	registered = false
 [submodule "geodata"]
 	path = geodata
-	url = https://github.com/https://github.com/rspatial/geodata
+	url = https://github.com/rspatial/geodata
 [submodule "googleID"]
 	path = googleID
 	url = https://github.com/MarkEdmondson1234/googleID
