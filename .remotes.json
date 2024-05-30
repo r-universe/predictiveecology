@@ -316,6 +316,12 @@
   {
     "package": "geodata",
     "url": "https://github.com/rspatial/geodata",
+    "via": ["SpaDES.project"],
+    "from": "SpaDES.project"
+  },
+  {
+    "package": "geodata",
+    "url": "https://github.com/rspatial/geodata",
     "via": ["reproducible"],
     "from": "reproducible"
   },
