@@ -64,7 +64,7 @@
 [submodule "SpaDES.project"]
 	path = SpaDES.project
 	url = https://github.com/PredictiveEcology/SpaDES.project
-	branch = development
+	branch = main
 [submodule "SpaDES.shiny"]
 	path = SpaDES.shiny
 	url = https://github.com/PredictiveEcology/SpaDES.shiny
