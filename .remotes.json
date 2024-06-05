@@ -6,6 +6,12 @@
     "from": "LandR"
   },
   {
+    "package": "BioSIM",
+    "url": "https://github.com/RNCan/BioSimClient_R",
+    "via": ["SpaDES.project", "SpaDES.config", "fireSenseUtils", "LandR"],
+    "from": "SpaDES.project"
+  },
+  {
     "package": "J4R",
     "url": "https://github.com/CWFC-CCFB/J4R",
     "via": ["BioSIM"],
@@ -16,6 +22,12 @@
     "url": "https://github.com/CWFC-CCFB/J4R",
     "via": ["LandR", "BioSIM"],
     "from": "LandR"
+  },
+  {
+    "package": "J4R",
+    "url": "https://github.com/CWFC-CCFB/J4R",
+    "via": ["SpaDES.project", "SpaDES.config", "fireSenseUtils", "LandR", "BioSIM"],
+    "from": "SpaDES.project"
   },
   {
     "package": "LandR",
@@ -133,7 +145,7 @@
   {
     "package": "SpaDES.core",
     "url": "https://github.com/PredictiveEcology/SpaDES.core",
-    "via": ["SpaDES.project", "SpaDES.config", "scfmutils"],
+    "via": ["SpaDES.project", "SpaDES.config", "fireSenseUtils", "LandR"],
     "branch": "development",
     "from": "SpaDES.project"
   },
@@ -269,6 +281,13 @@
     "via": ["LandR"],
     "branch": "dev_currentCeres",
     "from": "LandR"
+  },
+  {
+    "package": "biomod2",
+    "url": "https://github.com/CeresBarros/biomod2",
+    "via": ["SpaDES.project", "SpaDES.config", "fireSenseUtils", "LandR"],
+    "branch": "dev_currentCeres",
+    "from": "SpaDES.project"
   },
   {
     "package": "fireSenseUtils",
