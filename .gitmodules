@@ -27,6 +27,9 @@
 	path = NetLogoR
 	url = https://github.com/PredictiveEcology/NetLogoR
 	branch = development
+[submodule "PSPclean"]
+	path = PSPclean
+	url = https://github.com/ianmseddy/PSPclean
 [submodule "RandomFields"]
 	path = RandomFields
 	url = https://github.com/cran/RandomFields
