@@ -30,6 +30,7 @@
 [submodule "PSPclean"]
 	path = PSPclean
 	url = https://github.com/ianmseddy/PSPclean
+	branch = development
 [submodule "RandomFields"]
 	path = RandomFields
 	url = https://github.com/cran/RandomFields
