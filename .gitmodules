@@ -16,6 +16,9 @@
 	path = LandR
 	url = https://github.com/PredictiveEcology/LandR
 	branch = development
+[submodule "LandR.CS"]
+	path = LandR.CS
+	url = https://github.com/ianmseddy/LandR.CS
 [submodule "LandWebUtils"]
 	path = LandWebUtils
 	url = https://github.com/PredictiveEcology/LandWebUtils
