@@ -19,6 +19,7 @@
 [submodule "LandR.CS"]
 	path = LandR.CS
 	url = https://github.com/ianmseddy/LandR.CS
+	branch = development
 [submodule "LandWebUtils"]
 	path = LandWebUtils
 	url = https://github.com/PredictiveEcology/LandWebUtils
@@ -118,6 +119,7 @@
 [submodule "pedev"]
 	path = pedev
 	url = https://github.com/PredictiveEcology/pedev
+	branch = development
 [submodule "pemisc"]
 	path = pemisc
 	url = https://github.com/PredictiveEcology/pemisc
