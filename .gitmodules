@@ -108,6 +108,9 @@
 	path = googleID
 	url = https://github.com/MarkEdmondson1234/googleID
 	registered = false
+[submodule "libcbmr"]
+	path = libcbmr
+	url = https://github.com/PredictiveEcology/libcbmr
 [submodule "lintr"]
 	path = lintr
 	url = https://github.com/jimhester/lintr
@@ -116,6 +119,9 @@
 	path = map
 	url = https://github.com/PredictiveEcology/map
 	branch = development
+[submodule "mpbutils"]
+	path = mpbutils
+	url = https://github.com/PredictiveEcology/mpbutils
 [submodule "pedev"]
 	path = pedev
 	url = https://github.com/PredictiveEcology/pedev
