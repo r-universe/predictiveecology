@@ -44,7 +44,7 @@
 [submodule "Require"]
 	path = Require
 	url = https://github.com/PredictiveEcology/Require
-	branch = simplify4
+	branch = development
 [submodule "SDMTools"]
 	path = SDMTools
 	url = https://github.com/cran/SDMTools
