@@ -14,6 +14,12 @@
   {
     "package": "BioSIM",
     "url": "https://github.com/RNCan/BioSimClient_R",
+    "via": ["LandWebUtils", "LandR"],
+    "from": "LandWebUtils"
+  },
+  {
+    "package": "BioSIM",
+    "url": "https://github.com/RNCan/BioSimClient_R",
     "via": ["PSPclean", "LandR"],
     "from": "PSPclean"
   },
@@ -46,6 +52,12 @@
     "url": "https://github.com/CWFC-CCFB/J4R",
     "via": ["LandR.CS", "LandR", "BioSIM"],
     "from": "LandR.CS"
+  },
+  {
+    "package": "J4R",
+    "url": "https://github.com/CWFC-CCFB/J4R",
+    "via": ["LandWebUtils", "LandR", "BioSIM"],
+    "from": "LandWebUtils"
   },
   {
     "package": "J4R",
@@ -177,6 +189,13 @@
     "via": ["LandR.CS", "LandR"],
     "branch": "development",
     "from": "LandR.CS"
+  },
+  {
+    "package": "SpaDES.core",
+    "url": "https://github.com/PredictiveEcology/SpaDES.core",
+    "via": ["LandWebUtils", "LandR"],
+    "branch": "development",
+    "from": "LandWebUtils"
   },
   {
     "package": "SpaDES.core",
@@ -387,6 +406,13 @@
     "via": ["LandR.CS", "LandR"],
     "branch": "dev_currentCeres",
     "from": "LandR.CS"
+  },
+  {
+    "package": "biomod2",
+    "url": "https://github.com/CeresBarros/biomod2",
+    "via": ["LandWebUtils", "LandR"],
+    "branch": "dev_currentCeres",
+    "from": "LandWebUtils"
   },
   {
     "package": "biomod2",
@@ -680,6 +706,13 @@
   {
     "package": "quickPlot",
     "url": "https://github.com/PredictiveEcology/quickPlot",
+    "via": ["LandWebUtils", "LandR"],
+    "branch": "development",
+    "from": "LandWebUtils"
+  },
+  {
+    "package": "quickPlot",
+    "url": "https://github.com/PredictiveEcology/quickPlot",
     "via": ["PSPclean", "LandR"],
     "branch": "development",
     "from": "PSPclean"
@@ -732,6 +765,13 @@
     "via": ["LandR.CS", "LandR"],
     "branch": "development",
     "from": "LandR.CS"
+  },
+  {
+    "package": "reproducible",
+    "url": "https://github.com/PredictiveEcology/reproducible",
+    "via": ["LandWebUtils", "LandR"],
+    "branch": "development",
+    "from": "LandWebUtils"
   },
   {
     "package": "reproducible",
