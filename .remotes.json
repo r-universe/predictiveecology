@@ -523,12 +523,6 @@
     "from": "SpaDES.project"
   },
   {
-    "package": "geodata",
-    "url": "https://github.com/rspatial/geodata",
-    "via": ["reproducible"],
-    "from": "reproducible"
-  },
-  {
     "package": "googleID",
     "url": "https://github.com/MarkEdmondson1234/googleID",
     "via": ["SpaDES.shiny"],
