@@ -507,12 +507,6 @@
   {
     "package": "gdalUtils",
     "url": "https://github.com/gearslaboratory/gdalUtils",
-    "via": ["map"],
-    "from": "map"
-  },
-  {
-    "package": "gdalUtils",
-    "url": "https://github.com/gearslaboratory/gdalUtils",
     "via": ["usefulFuns", "LandR", "map"],
     "from": "usefulFuns"
   },
@@ -764,6 +758,13 @@
     "via": ["fireSenseUtils", "LandR"],
     "branch": "development",
     "from": "fireSenseUtils"
+  },
+  {
+    "package": "quickPlot",
+    "url": "https://github.com/PredictiveEcology/quickPlot",
+    "via": ["map"],
+    "branch": "development",
+    "from": "map"
   },
   {
     "package": "quickPlot",
