@@ -2,12 +2,6 @@
   {
     "package": "BioSIM",
     "url": "https://github.com/RNCan/BioSimClient_R",
-    "via": ["CBMutils", "LandR"],
-    "from": "CBMutils"
-  },
-  {
-    "package": "BioSIM",
-    "url": "https://github.com/RNCan/BioSimClient_R",
     "via": ["LandR"],
     "from": "LandR"
   },
@@ -56,12 +50,6 @@
   {
     "package": "J4R",
     "url": "https://github.com/CWFC-CCFB/J4R",
-    "via": ["CBMutils", "LandR", "BioSIM"],
-    "from": "CBMutils"
-  },
-  {
-    "package": "J4R",
-    "url": "https://github.com/CWFC-CCFB/J4R",
     "via": ["LandR", "BioSIM"],
     "from": "LandR"
   },
@@ -100,13 +88,6 @@
     "url": "https://github.com/CWFC-CCFB/J4R",
     "via": ["usefulFuns", "LandR", "BioSIM"],
     "from": "usefulFuns"
-  },
-  {
-    "package": "LandR",
-    "url": "https://github.com/PredictiveEcology/LandR",
-    "via": ["CBMutils"],
-    "branch": "development",
-    "from": "CBMutils"
   },
   {
     "package": "LandR",
@@ -210,13 +191,6 @@
   {
     "package": "SpaDES.core",
     "url": "https://github.com/PredictiveEcology/SpaDES.core",
-    "via": ["CBMutils", "LandR"],
-    "branch": "development",
-    "from": "CBMutils"
-  },
-  {
-    "package": "SpaDES.core",
-    "url": "https://github.com/PredictiveEcology/SpaDES.core",
     "via": ["LandR"],
     "branch": "development",
     "from": "LandR"
@@ -294,13 +268,6 @@
   {
     "package": "SpaDES.tools",
     "url": "https://github.com/PredictiveEcology/SpaDES.tools",
-    "via": ["CBMutils", "LandR", "map"],
-    "branch": "development",
-    "from": "CBMutils"
-  },
-  {
-    "package": "SpaDES.tools",
-    "url": "https://github.com/PredictiveEcology/SpaDES.tools",
     "via": ["LandR", "map"],
     "branch": "development",
     "from": "LandR"
@@ -378,13 +345,6 @@
   {
     "package": "amc",
     "url": "https://github.com/achubaty/amc",
-    "via": ["CBMutils", "LandR", "map", "pemisc"],
-    "branch": "development",
-    "from": "CBMutils"
-  },
-  {
-    "package": "amc",
-    "url": "https://github.com/achubaty/amc",
     "via": ["LandR", "map", "pemisc"],
     "branch": "development",
     "from": "LandR"
@@ -455,13 +415,6 @@
   {
     "package": "biomod2",
     "url": "https://github.com/CeresBarros/biomod2",
-    "via": ["CBMutils", "LandR"],
-    "branch": "dev_currentCeres",
-    "from": "CBMutils"
-  },
-  {
-    "package": "biomod2",
-    "url": "https://github.com/CeresBarros/biomod2",
     "via": ["LandR"],
     "branch": "dev_currentCeres",
     "from": "LandR"
@@ -514,12 +467,6 @@
     "via": ["SpaDES.project", "SpaDES.config"],
     "branch": "development",
     "from": "SpaDES.project"
-  },
-  {
-    "package": "gdalUtils",
-    "url": "https://github.com/gearslaboratory/gdalUtils",
-    "via": ["CBMutils", "LandR", "map"],
-    "from": "CBMutils"
   },
   {
     "package": "gdalUtils",
@@ -584,13 +531,6 @@
   {
     "package": "map",
     "url": "https://github.com/PredictiveEcology/map",
-    "via": ["CBMutils", "LandR"],
-    "branch": "development",
-    "from": "CBMutils"
-  },
-  {
-    "package": "map",
-    "url": "https://github.com/PredictiveEcology/map",
     "via": ["LandR"],
     "branch": "development",
     "from": "LandR"
@@ -636,13 +576,6 @@
     "via": ["usefulFuns", "LandR"],
     "branch": "development",
     "from": "usefulFuns"
-  },
-  {
-    "package": "pemisc",
-    "url": "https://github.com/PredictiveEcology/pemisc",
-    "via": ["CBMutils", "LandR", "map"],
-    "branch": "development",
-    "from": "CBMutils"
   },
   {
     "package": "pemisc",
@@ -699,13 +632,6 @@
     "via": ["usefulFuns", "LandR", "map"],
     "branch": "development",
     "from": "usefulFuns"
-  },
-  {
-    "package": "peutils",
-    "url": "https://github.com/PredictiveEcology/peutils",
-    "via": ["CBMutils", "LandR", "map", "pemisc"],
-    "branch": "development",
-    "from": "CBMutils"
   },
   {
     "package": "peutils",
@@ -769,13 +695,6 @@
     "via": ["usefulFuns", "LandR", "map", "pemisc"],
     "branch": "development",
     "from": "usefulFuns"
-  },
-  {
-    "package": "quickPlot",
-    "url": "https://github.com/PredictiveEcology/quickPlot",
-    "via": ["CBMutils", "LandR"],
-    "branch": "development",
-    "from": "CBMutils"
   },
   {
     "package": "quickPlot",
@@ -846,13 +765,6 @@
     "via": ["usefulFuns", "LandR"],
     "branch": "development",
     "from": "usefulFuns"
-  },
-  {
-    "package": "reproducible",
-    "url": "https://github.com/PredictiveEcology/reproducible",
-    "via": ["CBMutils", "LandR"],
-    "branch": "development",
-    "from": "CBMutils"
   },
   {
     "package": "reproducible",
@@ -955,12 +867,6 @@
   {
     "package": "rgdal",
     "url": "https://github.com/cran/rgdal",
-    "via": ["CBMutils", "LandR", "map"],
-    "from": "CBMutils"
-  },
-  {
-    "package": "rgdal",
-    "url": "https://github.com/cran/rgdal",
     "via": ["LandR", "map"],
     "from": "LandR"
   },
@@ -1005,12 +911,6 @@
     "url": "https://github.com/cran/rgdal",
     "via": ["usefulFuns", "LandR", "map"],
     "from": "usefulFuns"
-  },
-  {
-    "package": "rgeos",
-    "url": "https://github.com/cran/rgeos",
-    "via": ["CBMutils", "LandR", "map"],
-    "from": "CBMutils"
   },
   {
     "package": "rgeos",
@@ -1071,12 +971,6 @@
     "url": "https://github.com/traversc/stringfish",
     "via": ["SpaDES.project", "SpaDES.config", "fireSenseUtils"],
     "from": "SpaDES.project"
-  },
-  {
-    "package": "tiler",
-    "url": "https://github.com/ropensci/tiler",
-    "via": ["CBMutils", "LandR", "map"],
-    "from": "CBMutils"
   },
   {
     "package": "tiler",
