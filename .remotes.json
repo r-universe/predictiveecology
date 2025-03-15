@@ -564,12 +564,6 @@
     "from": "usefulFuns"
   },
   {
-    "package": "geodata",
-    "url": "https://github.com/rspatial/geodata",
-    "via": ["SpaDES.project"],
-    "from": "SpaDES.project"
-  },
-  {
     "package": "googleID",
     "url": "https://github.com/MarkEdmondson1234/googleID",
     "via": ["SpaDES.shiny"],
