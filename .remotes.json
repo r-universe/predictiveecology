@@ -554,12 +554,6 @@
   {
     "package": "gdalUtils",
     "url": "https://github.com/gearslaboratory/gdalUtils",
-    "via": ["fireSenseUtils", "LandR", "map"],
-    "from": "fireSenseUtils"
-  },
-  {
-    "package": "gdalUtils",
-    "url": "https://github.com/gearslaboratory/gdalUtils",
     "via": ["usefulFuns", "LandR", "map"],
     "from": "usefulFuns"
   },
@@ -823,7 +817,7 @@
   {
     "package": "quickPlot",
     "url": "https://github.com/PredictiveEcology/quickPlot",
-    "via": ["fireSenseUtils", "LandR"],
+    "via": ["fireSenseUtils", "LandR", "map"],
     "branch": "development",
     "from": "fireSenseUtils"
   },
@@ -921,7 +915,7 @@
   {
     "package": "reproducible",
     "url": "https://github.com/PredictiveEcology/reproducible",
-    "via": ["fireSenseUtils", "LandR"],
+    "via": ["fireSenseUtils", "LandR", "map"],
     "branch": "development",
     "from": "fireSenseUtils"
   },
