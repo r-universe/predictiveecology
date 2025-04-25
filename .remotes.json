@@ -518,12 +518,6 @@
   {
     "package": "gdalUtils",
     "url": "https://github.com/gearslaboratory/gdalUtils",
-    "via": ["CBMutils", "LandR", "map"],
-    "from": "CBMutils"
-  },
-  {
-    "package": "gdalUtils",
-    "url": "https://github.com/gearslaboratory/gdalUtils",
     "via": ["LandR", "map"],
     "from": "LandR"
   },
@@ -761,7 +755,7 @@
   {
     "package": "quickPlot",
     "url": "https://github.com/PredictiveEcology/quickPlot",
-    "via": ["CBMutils", "LandR"],
+    "via": ["CBMutils", "LandR", "map"],
     "branch": "development",
     "from": "CBMutils"
   },
@@ -838,7 +832,7 @@
   {
     "package": "reproducible",
     "url": "https://github.com/PredictiveEcology/reproducible",
-    "via": ["CBMutils", "LandR"],
+    "via": ["CBMutils", "LandR", "map"],
     "branch": "development",
     "from": "CBMutils"
   },
