@@ -530,12 +530,6 @@
   {
     "package": "gdalUtils",
     "url": "https://github.com/gearslaboratory/gdalUtils",
-    "via": ["PSPclean", "LandR", "map"],
-    "from": "PSPclean"
-  },
-  {
-    "package": "gdalUtils",
-    "url": "https://github.com/gearslaboratory/gdalUtils",
     "via": ["SpaDES.project", "SpaDES.config", "fireSenseUtils", "LandR", "map"],
     "from": "SpaDES.project"
   },
@@ -777,7 +771,7 @@
   {
     "package": "quickPlot",
     "url": "https://github.com/PredictiveEcology/quickPlot",
-    "via": ["PSPclean", "LandR"],
+    "via": ["PSPclean", "LandR", "map"],
     "branch": "development",
     "from": "PSPclean"
   },
@@ -854,7 +848,7 @@
   {
     "package": "reproducible",
     "url": "https://github.com/PredictiveEcology/reproducible",
-    "via": ["PSPclean", "LandR"],
+    "via": ["PSPclean", "LandR", "map"],
     "branch": "development",
     "from": "PSPclean"
   },
