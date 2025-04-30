@@ -523,12 +523,6 @@
   {
     "package": "gdalUtils",
     "url": "https://github.com/gearslaboratory/gdalUtils",
-    "via": ["SpaDES.project", "SpaDES.config", "fireSenseUtils", "LandR", "map"],
-    "from": "SpaDES.project"
-  },
-  {
-    "package": "gdalUtils",
-    "url": "https://github.com/gearslaboratory/gdalUtils",
     "via": ["usefulFuns", "LandR", "map"],
     "from": "usefulFuns"
   },
