@@ -104,6 +104,10 @@
 [submodule "geodata"]
 	path = geodata
 	url = https://github.com/rspatial/geodata
+[submodule "ggplot2"]
+	path = ggplot2
+	url = https://github.com/tidyverse/ggplot2
+	registered = false
 [submodule "googleID"]
 	path = googleID
 	url = https://github.com/MarkEdmondson1234/googleID

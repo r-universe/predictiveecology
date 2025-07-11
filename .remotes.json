@@ -534,6 +534,12 @@
     "from": "usefulFuns"
   },
   {
+    "package": "ggplot2",
+    "url": "https://github.com/tidyverse/ggplot2",
+    "via": ["quickPlot"],
+    "from": "quickPlot"
+  },
+  {
     "package": "googleID",
     "url": "https://github.com/MarkEdmondson1234/googleID",
     "via": ["SpaDES.shiny"],
