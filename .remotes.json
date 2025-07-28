@@ -195,6 +195,13 @@
     "from": "fireSenseUtils"
   },
   {
+    "package": "Require",
+    "url": "https://github.com/PredictiveEcology/Require",
+    "via": ["pemisc"],
+    "branch": "development",
+    "from": "pemisc"
+  },
+  {
     "package": "SDMTools",
     "url": "https://github.com/cran/SDMTools",
     "via": ["LandWebUtils"],
@@ -907,6 +914,13 @@
     "via": ["map"],
     "branch": "development",
     "from": "map"
+  },
+  {
+    "package": "reproducible",
+    "url": "https://github.com/PredictiveEcology/reproducible",
+    "via": ["pemisc"],
+    "branch": "development",
+    "from": "pemisc"
   },
   {
     "package": "reproducible",
