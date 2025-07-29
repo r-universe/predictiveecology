@@ -904,6 +904,13 @@
   {
     "package": "reproducible",
     "url": "https://github.com/PredictiveEcology/reproducible",
+    "via": ["amc"],
+    "branch": "development",
+    "from": "amc"
+  },
+  {
+    "package": "reproducible",
+    "url": "https://github.com/PredictiveEcology/reproducible",
     "via": ["fireSenseUtils", "LandR", "map"],
     "branch": "development",
     "from": "fireSenseUtils"
