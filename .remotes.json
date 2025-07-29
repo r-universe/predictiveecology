@@ -932,7 +932,7 @@
   {
     "package": "reproducible",
     "url": "https://github.com/PredictiveEcology/reproducible",
-    "via": ["pemisc"],
+    "via": ["pemisc", "amc"],
     "branch": "development",
     "from": "pemisc"
   },
