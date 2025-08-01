@@ -90,6 +90,10 @@
 	url = https://github.com/CeresBarros/biomod2
 	branch = dev_currentCeres
 	registered = false
+[submodule "clusters"]
+	path = clusters
+	url = https://github.com/PredictiveEcology/clusters
+	registered = false
 [submodule "fastshp"]
 	path = fastshp
 	url = https://github.com/s-u/fastshp

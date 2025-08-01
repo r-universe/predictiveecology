@@ -190,7 +190,7 @@
   {
     "package": "Require",
     "url": "https://github.com/PredictiveEcology/Require",
-    "via": ["fireSenseUtils"],
+    "via": ["fireSenseUtils", "clusters"],
     "branch": "development",
     "from": "fireSenseUtils"
   },
@@ -514,6 +514,12 @@
     "via": ["usefulFuns", "LandR"],
     "branch": "dev_currentCeres",
     "from": "usefulFuns"
+  },
+  {
+    "package": "clusters",
+    "url": "https://github.com/PredictiveEcology/clusters",
+    "via": ["fireSenseUtils"],
+    "from": "fireSenseUtils"
   },
   {
     "package": "fireSenseUtils",
@@ -918,8 +924,8 @@
   {
     "package": "reproducible",
     "url": "https://github.com/PredictiveEcology/reproducible",
-    "via": ["fireSenseUtils", "LandR", "map"],
-    "branch": "development",
+    "via": ["fireSenseUtils", "clusters"],
+    "branch": "AI",
     "from": "fireSenseUtils"
   },
   {
@@ -989,12 +995,6 @@
   {
     "package": "rgdal",
     "url": "https://github.com/cran/rgdal",
-    "via": ["fireSenseUtils", "LandR", "map"],
-    "from": "fireSenseUtils"
-  },
-  {
-    "package": "rgdal",
-    "url": "https://github.com/cran/rgdal",
     "via": ["usefulFuns", "LandR", "map"],
     "from": "usefulFuns"
   },
@@ -1033,12 +1033,6 @@
     "url": "https://github.com/cran/rgeos",
     "via": ["SpaDES.project", "SpaDES.config", "fireSenseUtils", "LandR", "map"],
     "from": "SpaDES.project"
-  },
-  {
-    "package": "rgeos",
-    "url": "https://github.com/cran/rgeos",
-    "via": ["fireSenseUtils", "LandR", "map"],
-    "from": "fireSenseUtils"
   },
   {
     "package": "rgeos",
