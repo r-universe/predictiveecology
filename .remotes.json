@@ -847,7 +847,7 @@
   {
     "package": "reproducible",
     "url": "https://github.com/PredictiveEcology/reproducible",
-    "via": ["LandR", "map"],
+    "via": ["LandR", "map", "pemisc", "amc"],
     "branch": "development",
     "from": "LandR"
   },
@@ -959,12 +959,6 @@
   {
     "package": "rgdal",
     "url": "https://github.com/cran/rgdal",
-    "via": ["LandR", "map"],
-    "from": "LandR"
-  },
-  {
-    "package": "rgdal",
-    "url": "https://github.com/cran/rgdal",
     "via": ["LandR.CS", "LandR", "map"],
     "from": "LandR.CS"
   },
@@ -991,12 +985,6 @@
     "url": "https://github.com/cran/rgdal",
     "via": ["usefulFuns", "LandR", "map"],
     "from": "usefulFuns"
-  },
-  {
-    "package": "rgeos",
-    "url": "https://github.com/cran/rgeos",
-    "via": ["LandR", "map"],
-    "from": "LandR"
   },
   {
     "package": "rgeos",
