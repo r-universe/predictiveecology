@@ -868,7 +868,7 @@
   {
     "package": "reproducible",
     "url": "https://github.com/PredictiveEcology/reproducible",
-    "via": ["PSPclean", "LandR", "map"],
+    "via": ["PSPclean", "LandR", "map", "pemisc", "amc"],
     "branch": "development",
     "from": "PSPclean"
   },
@@ -971,12 +971,6 @@
   {
     "package": "rgdal",
     "url": "https://github.com/cran/rgdal",
-    "via": ["PSPclean", "LandR", "map"],
-    "from": "PSPclean"
-  },
-  {
-    "package": "rgdal",
-    "url": "https://github.com/cran/rgdal",
     "via": ["SpaDES.project", "SpaDES.config", "fireSenseUtils", "LandR", "map"],
     "from": "SpaDES.project"
   },
@@ -997,12 +991,6 @@
     "url": "https://github.com/cran/rgeos",
     "via": ["LandWebUtils", "LandR", "map"],
     "from": "LandWebUtils"
-  },
-  {
-    "package": "rgeos",
-    "url": "https://github.com/cran/rgeos",
-    "via": ["PSPclean", "LandR", "map"],
-    "from": "PSPclean"
   },
   {
     "package": "rgeos",
