@@ -993,6 +993,13 @@
     "from": "SpaDES.project"
   },
   {
+    "package": "scfmutils",
+    "url": "https://github.com/PredictiveEcology/scfmutils",
+    "via": ["fireSenseUtils"],
+    "branch": "development",
+    "from": "fireSenseUtils"
+  },
+  {
     "package": "stringfish",
     "url": "https://github.com/traversc/stringfish",
     "via": ["SpaDES.project", "SpaDES.config", "fireSenseUtils"],
