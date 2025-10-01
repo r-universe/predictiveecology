@@ -1006,6 +1006,12 @@
     "from": "SpaDES.project"
   },
   {
+    "package": "testthat",
+    "url": "https://github.com/r-lib/testthat",
+    "via": ["SpaDES.tools"],
+    "from": "SpaDES.tools"
+  },
+  {
     "package": "tiler",
     "url": "https://github.com/ropensci/tiler",
     "via": ["CBMutils", "LandR", "map"],
