@@ -820,13 +820,6 @@
   {
     "package": "quickPlot",
     "url": "https://github.com/PredictiveEcology/quickPlot",
-    "via": ["map"],
-    "branch": "development",
-    "from": "map"
-  },
-  {
-    "package": "quickPlot",
-    "url": "https://github.com/PredictiveEcology/quickPlot",
     "via": ["usefulFuns", "LandR"],
     "branch": "development",
     "from": "usefulFuns"
