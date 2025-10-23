@@ -119,7 +119,7 @@
     "package": "LandR",
     "url": "https://github.com/PredictiveEcology/LandR",
     "via": ["LandWebUtils"],
-    "branch": "LandWeb",
+    "branch": "development",
     "from": "LandWebUtils"
   },
   {
