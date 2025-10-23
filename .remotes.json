@@ -952,12 +952,6 @@
   {
     "package": "rgdal",
     "url": "https://github.com/cran/rgdal",
-    "via": ["SpaDES.project", "SpaDES.config", "fireSenseUtils", "LandR", "map"],
-    "from": "SpaDES.project"
-  },
-  {
-    "package": "rgdal",
-    "url": "https://github.com/cran/rgdal",
     "via": ["usefulFuns", "LandR", "map"],
     "from": "usefulFuns"
   },
@@ -970,12 +964,6 @@
   {
     "package": "rgeos",
     "url": "https://github.com/cran/rgeos",
-    "via": ["SpaDES.project", "SpaDES.config", "fireSenseUtils", "LandR", "map"],
-    "from": "SpaDES.project"
-  },
-  {
-    "package": "rgeos",
-    "url": "https://github.com/cran/rgeos",
     "via": ["usefulFuns", "LandR", "map"],
     "from": "usefulFuns"
   },
@@ -983,6 +971,7 @@
     "package": "scfmutils",
     "url": "https://github.com/PredictiveEcology/scfmutils",
     "via": ["SpaDES.project", "SpaDES.config"],
+    "branch": "development",
     "from": "SpaDES.project"
   },
   {
