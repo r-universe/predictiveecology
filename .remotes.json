@@ -202,12 +202,6 @@
     "from": "pemisc"
   },
   {
-    "package": "SDMTools",
-    "url": "https://github.com/achubaty/SDMTools",
-    "via": ["LandWebUtils"],
-    "from": "LandWebUtils"
-  },
-  {
     "package": "SpaDES.config",
     "url": "https://github.com/PredictiveEcology/SpaDES.config",
     "via": ["SpaDES.project"],
