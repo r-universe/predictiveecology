@@ -1,5 +1,11 @@
 [
   {
+    "package": "AOI",
+    "url": "https://github.com/mikejohnson51/AOI",
+    "via": ["LandR", "zonal", "climateR"],
+    "from": "LandR"
+  },
+  {
     "package": "BioSIM",
     "url": "https://github.com/RNCan/BioSimClient_R",
     "via": ["CBMutils", "LandR"],
@@ -510,6 +516,12 @@
     "from": "usefulFuns"
   },
   {
+    "package": "climateR",
+    "url": "https://github.com/mikejohnson51/climateR",
+    "via": ["LandR", "zonal"],
+    "from": "LandR"
+  },
+  {
     "package": "clusters",
     "url": "https://github.com/PredictiveEcology/clusters",
     "via": ["fireSenseUtils"],
@@ -607,6 +619,12 @@
     "via": ["usefulFuns", "LandR"],
     "branch": "development",
     "from": "usefulFuns"
+  },
+  {
+    "package": "ncmeta",
+    "url": "https://github.com/dblodgett-usgs/ncmeta",
+    "via": ["LandR", "zonal", "climateR"],
+    "from": "LandR"
   },
   {
     "package": "pemisc",
@@ -740,6 +758,12 @@
     "via": ["usefulFuns", "LandR", "map", "pemisc"],
     "branch": "development",
     "from": "usefulFuns"
+  },
+  {
+    "package": "pizzarr",
+    "url": "https://github.com/keller-mark/pizzarr",
+    "via": ["LandR", "zonal", "climateR", "ncmeta", "rnz"],
+    "from": "LandR"
   },
   {
     "package": "quickPlot",
@@ -962,6 +986,12 @@
     "from": "usefulFuns"
   },
   {
+    "package": "rnz",
+    "url": "https://github.com/doi-usgs/rnz",
+    "via": ["LandR", "zonal", "climateR", "ncmeta"],
+    "from": "LandR"
+  },
+  {
     "package": "scfmutils",
     "url": "https://github.com/PredictiveEcology/scfmutils",
     "via": ["SpaDES.project", "SpaDES.config"],
@@ -1047,5 +1077,11 @@
     "via": ["SpaDES.project", "SpaDES.config", "fireSenseUtils"],
     "branch": "development",
     "from": "SpaDES.project"
+  },
+  {
+    "package": "zonal",
+    "url": "https://github.com/mikejohnson51/zonal",
+    "via": ["LandR"],
+    "from": "LandR"
   }
 ]

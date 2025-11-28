@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/predictiveecology/predictiveecology.r-universe.dev
 	branch = HEAD
+[submodule "AOI"]
+	path = AOI
+	url = https://github.com/mikejohnson51/AOI
+	registered = false
 [submodule "BioSIM"]
 	path = BioSIM
 	url = https://github.com/RNCan/BioSimClient_R
@@ -90,6 +94,10 @@
 	url = https://github.com/CeresBarros/biomod2
 	branch = dev_currentCeres
 	registered = false
+[submodule "climateR"]
+	path = climateR
+	url = https://github.com/mikejohnson51/climateR
+	registered = false
 [submodule "clusters"]
 	path = clusters
 	url = https://github.com/PredictiveEcology/clusters
@@ -130,6 +138,10 @@
 [submodule "mpbutils"]
 	path = mpbutils
 	url = https://github.com/PredictiveEcology/mpbutils
+[submodule "ncmeta"]
+	path = ncmeta
+	url = https://github.com/dblodgett-usgs/ncmeta
+	registered = false
 [submodule "pedev"]
 	path = pedev
 	url = https://github.com/PredictiveEcology/pedev
@@ -142,6 +154,10 @@
 	path = peutils
 	url = https://github.com/PredictiveEcology/peutils
 	branch = development
+[submodule "pizzarr"]
+	path = pizzarr
+	url = https://github.com/keller-mark/pizzarr
+	registered = false
 [submodule "quickPlot"]
 	path = quickPlot
 	url = https://github.com/PredictiveEcology/quickPlot
@@ -156,6 +172,10 @@
 [submodule "rgeos"]
 	path = rgeos
 	url = https://github.com/cran/rgeos
+[submodule "rnz"]
+	path = rnz
+	url = https://github.com/doi-usgs/rnz
+	registered = false
 [submodule "scfmutils"]
 	path = scfmutils
 	url = https://github.com/PredictiveEcology/scfmutils
@@ -179,3 +199,7 @@
 [submodule "visualTest"]
 	path = visualTest
 	url = https://github.com/MangoTheCat/visualTest
+[submodule "zonal"]
+	path = zonal
+	url = https://github.com/mikejohnson51/zonal
+	registered = false
