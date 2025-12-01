@@ -42,16 +42,18 @@
 [submodule "RandomFields"]
 	path = RandomFields
 	url = https://github.com/cran/RandomFields
+	registered = false
 [submodule "RandomFieldsUtils"]
 	path = RandomFieldsUtils
 	url = https://github.com/cran/RandomFieldsUtils
+	registered = false
 [submodule "Require"]
 	path = Require
 	url = https://github.com/PredictiveEcology/Require
 	branch = development
 [submodule "SDMTools"]
 	path = SDMTools
-	url = https://github.com/cran/SDMTools
+	url = https://github.com/achubaty/SDMTools
 [submodule "SpaDES"]
 	path = SpaDES
 	url = https://github.com/PredictiveEcology/SpaDES
@@ -169,9 +171,11 @@
 [submodule "rgdal"]
 	path = rgdal
 	url = https://github.com/cran/rgdal
+	registered = false
 [submodule "rgeos"]
 	path = rgeos
 	url = https://github.com/cran/rgeos
+	registered = false
 [submodule "rnz"]
 	path = rnz
 	url = https://github.com/doi-usgs/rnz
