@@ -232,7 +232,7 @@
     "package": "SpaDES.core",
     "url": "https://github.com/PredictiveEcology/SpaDES.core",
     "via": ["LandR"],
-    "branch": "box",
+    "branch": "development",
     "from": "LandR"
   },
   {
