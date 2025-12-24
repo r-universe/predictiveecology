@@ -937,7 +937,7 @@
     "package": "reproducible",
     "url": "https://github.com/PredictiveEcology/reproducible",
     "via": ["fireSenseUtils", "clusters"],
-    "branch": "AI",
+    "branch": "development",
     "from": "fireSenseUtils"
   },
   {
