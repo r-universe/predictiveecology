@@ -169,6 +169,12 @@
     "from": "SpaDES.experiment"
   },
   {
+    "package": "NLMR",
+    "url": "https://github.com/ropensci/NLMR",
+    "via": ["SpaDES.tools"],
+    "from": "SpaDES.tools"
+  },
+  {
     "package": "RandomFields",
     "url": "https://github.com/cran/RandomFields",
     "via": ["SpaDES.experiment"],
@@ -818,6 +824,13 @@
   {
     "package": "quickPlot",
     "url": "https://github.com/PredictiveEcology/quickPlot",
+    "via": ["SpaDES.tools"],
+    "branch": "development",
+    "from": "SpaDES.tools"
+  },
+  {
+    "package": "quickPlot",
+    "url": "https://github.com/PredictiveEcology/quickPlot",
     "via": ["fireSenseUtils", "LandR", "map"],
     "branch": "development",
     "from": "fireSenseUtils"
@@ -898,6 +911,13 @@
     "via": ["SpaDES.project", "SpaDES.config", "fireSenseUtils"],
     "branch": "development",
     "from": "SpaDES.project"
+  },
+  {
+    "package": "reproducible",
+    "url": "https://github.com/PredictiveEcology/reproducible",
+    "via": ["SpaDES.tools"],
+    "branch": "development",
+    "from": "SpaDES.tools"
   },
   {
     "package": "reproducible",
