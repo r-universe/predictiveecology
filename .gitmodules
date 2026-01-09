@@ -188,10 +188,6 @@
 	path = stringfish
 	url = https://github.com/traversc/stringfish
 	registered = false
-[submodule "testthat"]
-	path = testthat
-	url = https://github.com/r-lib/testthat
-	registered = false
 [submodule "tiler"]
 	path = tiler
 	url = https://github.com/ropensci/tiler
