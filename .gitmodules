@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/predictiveecology/predictiveecology.r-universe.dev
 	branch = HEAD
-[submodule "AOI"]
-	path = AOI
-	url = https://github.com/mikejohnson51/AOI
-	registered = false
 [submodule "BioSIM"]
 	path = BioSIM
 	url = https://github.com/RNCan/BioSimClient_R
@@ -39,14 +35,6 @@
 	path = PSPclean
 	url = https://github.com/ianmseddy/PSPclean
 	branch = development
-[submodule "RandomFields"]
-	path = RandomFields
-	url = https://github.com/cran/RandomFields
-	registered = false
-[submodule "RandomFieldsUtils"]
-	path = RandomFieldsUtils
-	url = https://github.com/cran/RandomFieldsUtils
-	registered = false
 [submodule "Require"]
 	path = Require
 	url = https://github.com/PredictiveEcology/Require
@@ -62,11 +50,6 @@
 	path = SpaDES.addins
 	url = https://github.com/PredictiveEcology/SpaDES.addins
 	branch = development
-[submodule "SpaDES.config"]
-	path = SpaDES.config
-	url = https://github.com/PredictiveEcology/SpaDES.config
-	branch = development
-	registered = false
 [submodule "SpaDES.core"]
 	path = SpaDES.core
 	url = https://github.com/PredictiveEcology/SpaDES.core
@@ -91,19 +74,6 @@
 	path = amc
 	url = https://github.com/achubaty/amc
 	branch = development
-[submodule "biomod2"]
-	path = biomod2
-	url = https://github.com/CeresBarros/biomod2
-	branch = dev_currentCeres
-	registered = false
-[submodule "climateR"]
-	path = climateR
-	url = https://github.com/mikejohnson51/climateR
-	registered = false
-[submodule "clusters"]
-	path = clusters
-	url = https://github.com/PredictiveEcology/clusters
-	registered = false
 [submodule "fastshp"]
 	path = fastshp
 	url = https://github.com/s-u/fastshp
@@ -111,28 +81,12 @@
 	path = fireSenseUtils
 	url = https://github.com/PredictiveEcology/fireSenseUtils
 	branch = development
-[submodule "gdalUtils"]
-	path = gdalUtils
-	url = https://github.com/gearslaboratory/gdalUtils
-	registered = false
 [submodule "geodata"]
 	path = geodata
 	url = https://github.com/rspatial/geodata
-[submodule "ggplot2"]
-	path = ggplot2
-	url = https://github.com/tidyverse/ggplot2
-	registered = false
-[submodule "googleID"]
-	path = googleID
-	url = https://github.com/MarkEdmondson1234/googleID
-	registered = false
 [submodule "libcbmr"]
 	path = libcbmr
 	url = https://github.com/PredictiveEcology/libcbmr
-[submodule "lintr"]
-	path = lintr
-	url = https://github.com/jimhester/lintr
-	registered = false
 [submodule "map"]
 	path = map
 	url = https://github.com/PredictiveEcology/map
@@ -140,10 +94,6 @@
 [submodule "mpbutils"]
 	path = mpbutils
 	url = https://github.com/PredictiveEcology/mpbutils
-[submodule "ncmeta"]
-	path = ncmeta
-	url = https://github.com/dblodgett-usgs/ncmeta
-	registered = false
 [submodule "pedev"]
 	path = pedev
 	url = https://github.com/PredictiveEcology/pedev
@@ -156,10 +106,6 @@
 	path = peutils
 	url = https://github.com/PredictiveEcology/peutils
 	branch = development
-[submodule "pizzarr"]
-	path = pizzarr
-	url = https://github.com/keller-mark/pizzarr
-	registered = false
 [submodule "quickPlot"]
 	path = quickPlot
 	url = https://github.com/PredictiveEcology/quickPlot
@@ -168,30 +114,10 @@
 	path = reproducible
 	url = https://github.com/PredictiveEcology/reproducible
 	branch = development
-[submodule "rgdal"]
-	path = rgdal
-	url = https://github.com/cran/rgdal
-	registered = false
-[submodule "rgeos"]
-	path = rgeos
-	url = https://github.com/cran/rgeos
-	registered = false
-[submodule "rnz"]
-	path = rnz
-	url = https://github.com/doi-usgs/rnz
-	registered = false
 [submodule "scfmutils"]
 	path = scfmutils
 	url = https://github.com/PredictiveEcology/scfmutils
 	branch = development
-[submodule "stringfish"]
-	path = stringfish
-	url = https://github.com/traversc/stringfish
-	registered = false
-[submodule "tiler"]
-	path = tiler
-	url = https://github.com/ropensci/tiler
-	registered = false
 [submodule "usefulFuns"]
 	path = usefulFuns
 	url = https://github.com/PredictiveEcology/usefulFuns
@@ -199,7 +125,3 @@
 [submodule "visualTest"]
 	path = visualTest
 	url = https://github.com/MangoTheCat/visualTest
-[submodule "zonal"]
-	path = zonal
-	url = https://github.com/mikejohnson51/zonal
-	registered = false
