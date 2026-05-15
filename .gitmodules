@@ -74,6 +74,9 @@
 	path = amc
 	url = https://github.com/achubaty/amc
 	branch = development
+[submodule "clusters"]
+	path = clusters
+	url = https://github.com/PredictiveEcology/clusters
 [submodule "fastshp"]
 	path = fastshp
 	url = https://github.com/s-u/fastshp
